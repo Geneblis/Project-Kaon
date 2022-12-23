@@ -1,0 +1,5 @@
+AUT = "countries/Test.txt"
+DES = "countries/DES.txt"
+DBL = "countries/DBL.txt"
+CGA = "countries/CGA.txt"
+ASD = "countries/ASD.txt"

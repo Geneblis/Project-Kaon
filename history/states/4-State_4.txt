@@ -1,0 +1,10 @@
+state={
+	id=4
+	name="STATE_4"
+	provinces={
+		820 2022 3626 3642 4375 4805 4823 5113 5133 6788 7020 7321 8019 8029 8039 8052 8065 8077 8098 8179 8188 
+	}
+	buildings_max_level_factor=1.000
+        manpower=100000
+        state_category = large_town
+}

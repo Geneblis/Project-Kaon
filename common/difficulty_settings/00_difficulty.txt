@@ -1,0 +1,38 @@
+difficulty_settings = {
+	difficulty_setting = {
+		key = "Strength the Acre Republic"
+		modifier = diff_strong_ai_generic
+		countries = { ACR }
+		multiplier = 2.0
+	}
+	difficulty_setting = {
+		key = "Strength the Northern Revolutionary Army"
+		modifier = diff_strong_ai_generic
+		countries = { ERN }
+		multiplier = 2.0
+	}
+	difficulty_setting = {
+		key = "Strength the State of São Paulo"
+		modifier = diff_strong_ai_generic
+		countries = { SAO }
+		multiplier = 2.0
+	}
+	difficulty_setting = {
+		key = "Strength the Eastern Military Command"
+		modifier = diff_strong_ai_generic
+		countries = { CRJ }
+		multiplier = 2.0
+	}
+	difficulty_setting = {
+		key = "Strength the Fourth Republic"
+		modifier = diff_strong_ai_generic
+		countries = { BRA }
+		multiplier = 2.0
+	}
+	difficulty_setting = {
+		key = "Strength the Minero's Revolutionaries"
+		modifier = diff_strong_ai_generic
+		countries = { RMI }
+		multiplier = 2.0
+	}
+}

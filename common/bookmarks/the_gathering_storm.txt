@@ -1,0 +1,49 @@
+bookmarks = {
+	bookmark = {
+		name = "Gates of Kaon"
+		desc = "GATHERING_STORM_DESC"
+		date = 5.1.1.12
+		picture = "GFX_select_date_1936"
+		default_country = "AUT"
+		default = yes
+
+			AUT ={
+				history = "AUT_GOLDEN_AGE_DESC"
+                ideology = democratic
+			    ideas = {
+					ACR_anti_bolivian_propaganda 
+					ACR_funai 
+					ACR_banana_bread_and_theater 
+    	        }
+    	        focuses = {
+					ACR_force_a_stage_of_siege
+					ACR_pass_native_defence_act
+					ACR_talk_business
+    	        }
+			}
+			
+			DEC={
+				history = "NHA_GATHERING_STORM_DESC"
+                ideology = fascism
+			    ideas = {
+					overcrowded_island 
+					the_amazonian_military_command 
+					what_are_we_fighting_for 
+    	        }
+    	        focuses = {
+					NHA_petition_belem
+					NHA_the_madera_incident
+					NHA_segregate_the_troops
+    	        }
+			}
+
+			"---"={
+				history = "OTHER_BLITZKRIEG_DESC"
+			}
+			
+		effect = {
+			randomize_weather = 22345 # <- Obligatory in every bookmark !
+			#123 = { rain_light = yes }
+		}
+	}
+}

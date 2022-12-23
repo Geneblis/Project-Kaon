@@ -1,0 +1,34 @@
+ideologies = {
+	autobotism = {
+		types = {
+			optimism = {  }
+		}
+		dynamic_faction_names = {
+			"faction_autobotism_thecontinentadjassociation"
+			"faction_autobotism_thecontinentadjentente"
+			"faction_autobotism_theleadercountryadjconcordat"
+			"faction_autobotism_theleadercountryadjunion"
+			"faction_autobotism_continentadjcoalition"
+			"faction_autobotism_continentadjfederation"
+		}
+		color = { 125 26 27 }
+		can_host_government_in_exile = yes
+		can_collaborate = yes
+		war_impact_on_world_tension = 1
+		faction_modifiers = {
+			faction_impact_on_world_tension = 1
+		}
+		rules = {
+			can_create_collaboration_government = yes
+			can_declare_war_on_same_ideology = yes
+			can_force_government = yes
+			can_send_volunteers = yes
+			can_puppet = yes
+			can_guarantee_other_ideologies = yes
+		}
+		modifiers = {
+			join_faction_tension = 0.5
+		}
+		ai_neutral = yes
+	}
+}

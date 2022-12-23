@@ -1,0 +1,20 @@
+TST = {
+	color = rgb { 57 113 228 }
+	color_ui = rgb { 74 147 255 }
+}
+AUT = {
+	color = rgb { 57 113 228 }
+	color_ui = rgb { 74 147 255 }
+}
+ASD = {
+	color = rgb { 57 113 228 }
+	color_ui = rgb { 74 147 255 }
+}
+DES = {
+	color = rgb { 146 2 199 }
+	color_ui = rgb { 146 2 199 }
+}
+DBL = {
+	color = rgb { 53 24 61 }
+	color_ui = rgb { 53 24 61 }
+}
