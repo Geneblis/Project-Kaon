@@ -1,6 +1,13 @@
 state={
 	id=315
 	name="STATE_315"
+	history = {
+		owner = AUT
+		add_core_of = AUT
+		victory_points = {
+			4492 1
+		}
+	}
 	provinces={
 		1324 1526 2594 2904 2941 3002 3472 3651 3805 4492 5390 5412 6086 6170 9213 9214 9234 9296 
 	}
