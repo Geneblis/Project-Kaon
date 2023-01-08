@@ -1,7 +1,7 @@
 ideologies = {
 	selfaligned = {
 		types = {
-			ONfQYxEr = {  }
+			selfaligned_ideology = {  }
 		}
 		dynamic_faction_names = {
 		}

@@ -1,31 +1,31 @@
-﻿capital = 61
+﻿capital = 287
 
 ##oob = "AUS_1936"
 
 set_research_slots = 3
 
 set_politics = {
-	ruling_party = autobotism
+	ruling_party = elitism
 	last_election = "04.11.9"
 	election_frequency = 48
 	elections_allowed = no
 }
 
 set_popularities = {
-	autobotism = 70
-	elitism = 20
+	autobotism = 10
+	elitism = 80
 	selfaligned = 0
-	proletarianism = 10
+	proletarianism = 5
 	nonaligned = 0
-	decepticonism = 0
+	decepticonism = 5
 }
 
 create_country_leader = {
-	name = "Optimus Prime"
+	name = "Ultra Magnus"
 	desc = ""
-	picture = "Portrait_Optimus_Prime.dds"
+	picture = "Portrait_Magnus.dds"
 	expire = "1965.1.1"
-	ideology = optimism
+	ideology = oligarchy
 	traits = {
 		#
 	}

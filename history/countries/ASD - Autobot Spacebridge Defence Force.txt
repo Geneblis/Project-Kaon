@@ -6,6 +6,8 @@ set_research_slots = 3
 
 set_politics = {
 	ruling_party = elitism
+	last_election = "04.11.9"
+	election_frequency = 48
 	elections_allowed = no
 }
 

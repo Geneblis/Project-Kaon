@@ -11,7 +11,7 @@ ideologies = {
 			"faction_autobotism_continentadjcoalition"
 			"faction_autobotism_continentadjfederation"
 		}
-		color = { 125 26 27 }
+		color = { 150 10 13 }
 		can_host_government_in_exile = yes
 		can_collaborate = yes
 		war_impact_on_world_tension = 1

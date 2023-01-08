@@ -18,3 +18,11 @@ DBL = {
 	color = rgb { 53 24 61 }
 	color_ui = rgb { 53 24 61 }
 }
+KOD = {
+	color = rgb { 149 17 21 }
+	color_ui = rgb { 149 17 21 }
+}
+VCD = {
+	color = rgb { 149 17 21 }
+	color_ui = rgb { 149 17 21 }
+}

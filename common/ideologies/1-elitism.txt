@@ -7,7 +7,7 @@ ideologies = {
 		}
 		dynamic_faction_names = {
 		}
-		color = { 149 17 21 }
+		color = { 190 30 30 }
 		can_host_government_in_exile = yes
 		war_impact_on_world_tension = 0.1
 		faction_modifiers = {
