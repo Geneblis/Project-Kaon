@@ -26,3 +26,7 @@ VCD = {
 	color = rgb { 149 17 21 }
 	color_ui = rgb { 149 17 21 }
 }
+CID = {
+	color = rgb { 44 6 79 }
+	color_ui = rgb { 44 6 79 }
+}
