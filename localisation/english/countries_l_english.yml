@@ -41,3 +41,6 @@
  MRC:0 "Southern Mercenary State"
  MRC_ADJ:0 "Mercenary"
  MRC_DEF:0 "The Soundblaster's Mercenary State"
+ GCT:0 "Free State of Gold City"
+ GCT_ADJ:0 "Gold City Citizen"
+ GCT_DEF:0 "The Free State Council of Gold City"

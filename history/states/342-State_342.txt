@@ -6,6 +6,8 @@ state={
 		add_core_of = DES
 		victory_points = {
 			6145 5
+		}
+		victory_points = {
 			7167 2
 		}
 	}
