@@ -1,0 +1,32 @@
+﻿capital = 46
+
+##oob = "AUS_1936"
+
+set_research_slots = 3
+
+set_politics = {
+	ruling_party = elitism
+	last_election = "04.11.9"
+	election_frequency = 48
+	elections_allowed = no
+}
+
+set_popularities = {
+	autobotism = 30
+	elitism = 70
+	selfaligned = 0
+	proletarianism = 0
+	nonaligned = 0
+	decepticonism = 0
+}
+
+create_country_leader = {
+	name = "Grindlock"
+	desc = ""
+	picture = "Portrait_Grindlock.dds"
+	expire = "1965.1.1"
+	ideology = oligarchy
+	traits = {
+		#
+	}
+}

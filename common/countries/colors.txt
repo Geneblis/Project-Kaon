@@ -30,3 +30,23 @@ CID = {
 	color = rgb { 44 6 79 }
 	color_ui = rgb { 44 6 79 }
 }
+TRC = {
+	color = rgb { 8 71 6 }
+	color_ui = rgb { 8 71 6 }
+}
+WRK = {
+	color = rgb { 153 2 4 }
+	color_ui = rgb { 153 2 4 }
+}
+GRI = {
+	color = rgb { 82 11 21}
+	color_ui = rgb { 82 11 21}
+}
+LIV = {
+	color = rgb { 107 104 12 }
+	color_ui = rgb { 107 104 12 }
+}
+MRC = {
+	color = rgb { 87 87 87 }
+	color_ui = rgb { 87 87 87 }
+}

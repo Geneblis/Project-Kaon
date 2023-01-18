@@ -1,7 +1,7 @@
 ideologies = {
 	nonaligned = {
 		types = {
-			gONqMoPt = {  }
+			nonaligned_subideology = {  }
 		}
 		dynamic_faction_names = {
 		}

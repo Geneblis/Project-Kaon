@@ -1,0 +1,32 @@
+﻿capital = 367
+
+##oob = "AUS_1936"
+
+set_research_slots = 3
+
+set_politics = {
+	ruling_party = decepticonism
+	last_election = "04.11.9"
+	election_frequency = 48
+	elections_allowed = no
+}
+
+set_popularities = {
+	autobotism = 0
+	elitism = 0
+	selfaligned = 5
+	proletarianism = 5
+	nonaligned = 0
+	decepticonism = 90
+}
+
+create_country_leader = {
+	name = "Barrage"
+	desc = ""
+	picture = "Portrait_Barrage.dds"
+	expire = "1965.1.1"
+	ideology = tyranny
+	traits = {
+		#
+	}
+}

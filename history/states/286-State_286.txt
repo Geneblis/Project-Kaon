@@ -1,17 +1,22 @@
+
 state={
 	id=286
 	name="STATE_286"
-	history = {
-		owner = AUT
-		add_core_of = AUT
+
+	history={
+		owner = GRI
+		add_core_of = GRI
 		victory_points = {
-			7131 4
+			7131 4 
 		}
+
 	}
+
 	provinces={
-		809 874 966 1793 2250 2794 3318 3621 3764 3855 4120 4700 4924 4988 5425 5755 6317 6473 6481 6515 7131 9111 9129 9250 
+		809 874 939 966 1323 1793 2250 2794 3318 3430 3621 3764 3855 4120 4700 4924 4988 5425 5755 6317 6473 6481 6515 7104 7131 9111 9129 9206 9250 9268 
 	}
+	manpower=100000
 	buildings_max_level_factor=1.000
-        manpower=100000
-        state_category = large_town
+	state_category=large_town
+	local_supplies=0.000
 }

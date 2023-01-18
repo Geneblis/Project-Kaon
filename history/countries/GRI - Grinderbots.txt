@@ -1,0 +1,32 @@
+﻿capital = 286
+
+##oob = "AUS_1936"
+
+set_research_slots = 3
+
+set_politics = {
+	ruling_party = elitism
+	last_election = "04.11.9"
+	election_frequency = 48
+	elections_allowed = no
+}
+
+set_popularities = {
+	autobotism = 10
+	elitism = 90
+	selfaligned = 0
+	proletarianism = 0
+	nonaligned = 0
+	decepticonism = 0
+}
+
+create_country_leader = {
+	name = "Perceptor"
+	desc = ""
+	picture = "Portrait_Perceptor.dds"
+	expire = "1965.1.1"
+	ideology = oligarchy
+	traits = {
+		#
+	}
+}
