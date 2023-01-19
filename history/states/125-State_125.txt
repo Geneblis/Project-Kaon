@@ -1,17 +1,22 @@
+
 state={
 	id=125
 	name="STATE_125"
-	history = {
-		owner = AUT
-		add_core_of = AUT
+
+	history={
+		owner = PXD
+		add_core_of = PXD
 		victory_points = {
-			2232 11
+			2232 11 
 		}
+
 	}
+
 	provinces={
-		1019 1546 1850 1940 2232 3267 3553 3882 4243 4858 6116 6241 6753 6928 7140 7261 7914 7970 8092 
+		1019 1546 1850 1940 2232 3267 3553 3882 4858 6116 6753 6928 7140 7914 7970 8092 
 	}
+	manpower=100000
 	buildings_max_level_factor=1.000
-        manpower=100000
-        state_category = large_town
+	state_category=large_town
+	local_supplies=0.000
 }

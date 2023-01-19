@@ -30,6 +30,10 @@ CID = {
 	color = rgb { 44 6 79 }
 	color_ui = rgb { 44 6 79 }
 }
+PXD = {
+	color = rgb { 57 113 228 }
+	color_ui = rgb { 74 147 255 }
+}
 TRC = {
 	color = rgb { 8 71 6 }
 	color_ui = rgb { 8 71 6 }
@@ -53,4 +57,8 @@ MRC = {
 GCT = {
 	color = rgb { 87 87 87 }
 	color_ui = rgb { 87 87 87 }
+}
+AXD = {
+	color = rgb { 57 113 228 }
+	color_ui = rgb { 74 147 255 }
 }

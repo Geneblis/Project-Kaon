@@ -1,4 +1,4 @@
-﻿capital = 46
+﻿capital = 140
 
 ##oob = "AUS_1936"
 
@@ -12,20 +12,20 @@ set_politics = {
 }
 
 set_popularities = {
-	autobotism = 30
+	autobotism = 20
 	elitism = 70
 	selfaligned = 0
-	proletarianism = 0
+	proletarianism = 10
 	nonaligned = 0
 	decepticonism = 0
 }
 
 create_country_leader = {
-	name = "Grimlock"
+	name = "Modus Prime"
 	desc = ""
-	picture = "Portrait_Grindlock.dds"
+	picture = "Portrait_Modus_Prime.dds"
 	expire = "1965.1.1"
-	ideology = oligarchy
+	ideology = functionalism
 	traits = {
 		#
 	}
