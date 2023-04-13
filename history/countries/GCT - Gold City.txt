@@ -13,10 +13,10 @@ set_politics = {
 
 set_popularities = {
 	autobotism = 0
-	elitism = 0
-	selfaligned = 90
+	elitism = 10
+	selfaligned = 60
 	proletarianism = 0
-	nonaligned = 10
+	nonaligned = 30
 	decepticonism = 0
 }
 

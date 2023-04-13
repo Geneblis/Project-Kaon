@@ -1,0 +1,52 @@
+﻿l_english:
+
+selfaligned:0 "Self-Aligned"
+selfaligned_desc:0 "Self Prosperity over others."
+selfaligned_ideology:0 "Self-Aligned"
+selfaligned_ideology_desc:0 "Self-Aligned ideology desc"
+
+nonaligned:0 "Non-Aligned"
+nonaligned_desc:0 "Neutrality"
+nonaligned_subideology:0 "Non-Aligned"
+
+decepticonism:0 "Decepticonism"
+decepticonism_desc:0 "Supremacy of Cybertronian life over others."
+gladiatorial_peace:0 "Gladiatorial Peace"
+gladiatorial_peace_desc:0 "From the mere spark and mind of the gladiator §0Megatronus§!, the core mindset behind §0Gladiatorial Peace§! is that of enforcing equal rights for every single Cybertronian, not mattering the costs."
+tyranny:0 "Tyranny"
+tyranny_desc:0 "Peace through tyranny."
+
+proletarianism:0 "Proletarianism"
+proletarianism_desc:0 "Prosperity over freedom."
+rebellious_miner:0 "Rebellious Miner"
+rebellious_miner_desc:0 "After numerous star cycles suffering from poor working conditions and aggressions from their overlords, some Energon miners decided the best course of action was to get in arms and attempt to overthrow their former masters."
+gladiatorianism:0 "Gladiatorianism"
+gladiatorianism_desc:0 ""
+
+faction_proletarianism_united_cybertron_league:0 "United Cybertron League"
+faction_proletarianism_cybertron_unity:0 "Cybertron Unity"
+faction_proletarianism_the_singularity:0 "The Singularity"
+faction_proletarianism_miners:0 "Miners"
+
+autobotism:0 "Autobotism"
+autobotism_desc:0 "Freedom is the right of all sentient beings."
+optimism:0 "Optimism"
+optimism_desc:0 "Striving for a combination of Megatron’s equalities and the old Autobot’s Golden Age rulership. Optimism is an ideology focused on a social reform structure and corruption reduction analyses."
+
+faction_autobotism_thecontinentadjassociation:0 "The $CONTINENT_ADJ$ Association"
+faction_autobotism_thecontinentadjentente:0 "The $CONTINENT_ADJ$ Entente"
+faction_autobotism_theleadercountryadjconcordat:0 "The $LEADER_COUNTRY_ADJ$ Concordat"
+faction_autobotism_theleadercountryadjunion:0 "The $LEADER_COUNTRY_ADJ$ Union"
+faction_autobotism_continentadjcoalition:0 "$CONTINENT_ADJ$ Coalition"
+faction_autobotism_continentadjfederation:0 "$CONTINENT_ADJ$ Federation"
+
+elitism:0 "Elitism"
+elitism_desc:0 "Everyone's shape serves a purpose."
+functionalism:0 "Functionalism"
+functionalism_desc:0 "To quash this kind of Cybertronian individualism under a caste system, Functionalism seeks to organize Cybertronian and their vocations by their natural alternate mode."
+oligarchy:0 "Oligarchy"
+oligarchy_desc:0 ""
+NtFyJzsR:0 "Elitism"
+NtFyJzsR_desc:0 ""
+elite_despotism:0 "Despotism"
+elite_despotism_desc:0 "Despotism is a form of government in which a single entity rules with absolute power. Normally, that entity is an individual, the despot."

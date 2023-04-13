@@ -1,0 +1,32 @@
+﻿capital = 124
+
+##oob = "AUS_1936"
+
+set_research_slots = 3
+
+set_politics = {
+	ruling_party = elitism
+	last_election = "04.11.9"
+	election_frequency = 48
+	elections_allowed = no
+}
+
+set_popularities = {
+	autobotism = 20
+	elitism = 70
+	selfaligned = 0
+	proletarianism = 10
+	nonaligned = 0
+	decepticonism = 0
+}
+
+create_country_leader = {
+	name = "Warpath"
+	desc = ""
+	picture = "warpath.dds"
+	expire = "1965.1.1"
+	ideology = elite_despotism
+	traits = {
+		#
+	}
+}

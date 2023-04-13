@@ -1,0 +1,32 @@
+﻿capital = 6
+
+##oob = "DES_1936"
+
+set_research_slots = 3
+
+set_politics = {
+	ruling_party = autobotism
+	last_election = "04.11.9"
+	election_frequency = 48
+	elections_allowed = no
+}
+
+set_popularities = {
+	autobotism = 70
+	elitism = 0
+	selfaligned = 10
+	proletarianism = 0
+	nonaligned = 0
+	decepticonism = 20
+}
+
+create_country_leader = {
+	name = "Jetfire"
+	desc = ""
+	picture = "jetfire.dds"
+	expire = "1965.1.1"
+	ideology = optimism
+	traits = {
+		#
+	}
+}

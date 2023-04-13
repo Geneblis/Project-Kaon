@@ -1,0 +1,50 @@
+﻿capital = 61
+
+##oob = "AUS_1936"
+
+set_research_slots = 3
+
+set_politics = {
+	ruling_party = elitism
+	last_election = "04.11.9"
+	election_frequency = 48
+	elections_allowed = no
+}
+
+set_popularities = {
+	autobotism = 0
+	elitism = 90
+	selfaligned = 0
+	proletarianism = 10
+	nonaligned = 0
+	decepticonism = 0
+}
+
+create_country_leader = {
+	name = "Sentinel Prime"
+	desc = ""
+	picture = "Portrait_Sentinel_Prime.dds"
+	expire = "1965.1.1"
+	ideology = functionalism
+	traits = {
+	}
+}
+create_country_leader = {
+	name = "Tarn"
+	desc = ""
+	picture = "Portrait_Tarn.dds"
+	expire = "1965.1.1"
+	ideology = tyranny
+	traits = {
+	}
+}
+
+create_country_leader = {
+	name = "Knockout"
+	desc = ""
+	picture = "Portrait_Knockout.dds"
+	expire = "1965.1.1"
+	ideology = gladiatorianism
+	traits = {
+	}
+}

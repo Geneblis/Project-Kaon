@@ -7,8 +7,12 @@ AUT = {
 	color_ui = rgb { 74 147 255 }
 }
 ASD = {
-	color = rgb { 57 113 228 }
-	color_ui = rgb { 74 147 255 }
+	color = rgb { 2 96 179 }
+	color_ui = rgb { 2 96 179 }
+}
+ASP = {
+	color = rgb { 21 50 110 }
+	color_ui = rgb { 21 50 110 }
 }
 DES = {
 	color = rgb { 146 2 199 }
@@ -30,6 +34,14 @@ CID = {
 	color = rgb { 44 6 79 }
 	color_ui = rgb { 44 6 79 }
 }
+PYH = {
+	color = rgb { 0 67 156 }
+	color_ui = rgb { 0 67 156 }
+}
+VOS = {
+	color = rgb { 28 115 51 }
+	color_ui = rgb { 28 115 519 }
+}
 PXD = {
 	color = rgb { 57 113 228 }
 	color_ui = rgb { 74 147 255 }
@@ -39,16 +51,16 @@ TRC = {
 	color_ui = rgb { 8 71 6 }
 }
 WRK = {
-	color = rgb { 153 2 4 }
-	color_ui = rgb { 153 2 4 }
+	color = rgb { 2 96 179 }
+	color_ui = rgb { 2 96 179 }
 }
 GRI = {
 	color = rgb { 82 11 21}
 	color_ui = rgb { 82 11 21}
 }
 LIV = {
-	color = rgb { 107 104 12 }
-	color_ui = rgb { 107 104 12 }
+	color = rgb { 117 125 6 }
+	color_ui = rgb { 117 125 6 }
 }
 MRC = {
 	color = rgb { 87 87 87 }
@@ -61,4 +73,12 @@ GCT = {
 AXD = {
 	color = rgb { 57 113 228 }
 	color_ui = rgb { 74 147 255 }
+}
+TAR = {
+	color = rgb { 2 96 179 }
+	color_ui = rgb { 2 96 179 }
+}
+CGA = {
+	color = rgb { 173 2 179 }
+	color_ui = rgb { 173 2 179 }
 }

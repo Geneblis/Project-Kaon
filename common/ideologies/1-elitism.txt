@@ -4,6 +4,7 @@ ideologies = {
 			functionalism = { can_be_randomly_selected = no }
 			oligarchy = {  }
 			NtFyJzsR = {  }
+			elite_despotism = {  }
 		}
 		dynamic_faction_names = {
 		}
