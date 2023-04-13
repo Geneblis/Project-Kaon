@@ -30,3 +30,6 @@ create_country_leader = {
 		#
 	}
 }
+
+create_faction = autobot_polyhex_fac
+add_to_faction = ASD

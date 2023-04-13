@@ -35,3 +35,6 @@ declare_war_on = {
     target = LIV
     type = annex_everything
 }
+
+create_faction = autobot_south_fac
+add_to_faction = VCD

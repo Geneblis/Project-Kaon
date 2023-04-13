@@ -30,3 +30,5 @@ create_country_leader = {
 		#
 	}
 }
+
+create_faction = decepticon_fac

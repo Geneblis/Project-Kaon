@@ -30,3 +30,7 @@ create_country_leader = {
 		#
 	}
 }
+
+create_faction = autobot_commonwealth_fac
+add_to_faction = AXD
+add_to_faction = PXD
