@@ -9,7 +9,7 @@ bookmarks = {
 
 			AUT ={
 				history = "AUT_GOLDEN_AGE_DESC"
-                ideology = democratic
+                ideology = elitism
 			    ideas = {
 					ACR_anti_bolivian_propaganda 
 					ACR_funai 
@@ -22,18 +22,14 @@ bookmarks = {
     	        }
 			}
 			
-			DEC={
-				history = "NHA_GATHERING_STORM_DESC"
-                ideology = fascism
+			DES ={
+				history = "DES_GOLDEN_AGE_DESC"
+                ideology = decepticonism
 			    ideas = {
-					overcrowded_island 
-					the_amazonian_military_command 
-					what_are_we_fighting_for 
+					DES_placeholder
     	        }
     	        focuses = {
-					NHA_petition_belem
-					NHA_the_madera_incident
-					NHA_segregate_the_troops
+					DES_placeholder_focus
     	        }
 			}
 
