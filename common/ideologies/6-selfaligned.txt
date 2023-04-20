@@ -1,7 +1,9 @@
 ideologies = {
 	selfaligned = {
 		types = {
-			selfaligned_ideology = {  }
+			pirate_subideology = {}
+			mercenary_organization = {}
+			oligarchy = {}
 		}
 		dynamic_faction_names = {
 		}

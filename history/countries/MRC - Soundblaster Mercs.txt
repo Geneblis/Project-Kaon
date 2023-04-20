@@ -25,7 +25,7 @@ create_country_leader = {
 	desc = ""
 	picture = "Portrait_Soundblaster.dds"
 	expire = "1965.1.1"
-	ideology = selfaligned_ideology
+	ideology = mercenary_organization
 	traits = {
 		#
 	}

@@ -25,7 +25,7 @@ create_country_leader = {
 	desc = ""
 	picture = "Clench.dds"
 	expire = "1965.1.1"
-	ideology = selfaligned_ideology
+	ideology = oligarchy
 	traits = {
 		#
 	}

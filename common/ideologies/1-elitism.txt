@@ -3,8 +3,7 @@ ideologies = {
 		types = {
 			functionalism = { can_be_randomly_selected = no }
 			oligarchy = {  }
-			NtFyJzsR = {  }
-			elite_despotism = {  }
+			autocracy = {  }
 		}
 		dynamic_faction_names = {
 		}

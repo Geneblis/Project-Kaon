@@ -1,8 +1,9 @@
 ideologies = {
 	proletarianism = {
 		types = {
-			rebellious_miner = {  }
-			gladiatorianism = { can_be_randomly_selected = no }
+			rebellious_miner = {can_be_randomly_selected = no}
+			gladiatorianism = { }
+			ascentionism = {}
 		}
 		dynamic_faction_names = {
 			"faction_proletarianism_united_cybertron_league"

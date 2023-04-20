@@ -1,8 +1,9 @@
 ideologies = {
 	decepticonism = {
 		types = {
-			gladiatorial_peace = {  }
-			tyranny = {  }
+			gladiatorial_peace = {can_be_randomly_selected = no}
+			tyranny = {can_be_randomly_selected = no}
+			authoritarian_reformism = {}
 		}
 		dynamic_faction_names = {
 		}

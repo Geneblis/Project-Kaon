@@ -2,6 +2,7 @@ ideologies = {
 	autobotism = {
 		types = {
 			optimism = {  }
+			kaonism = {can_be_randomly_selected = no}
 		}
 		dynamic_faction_names = {
 			"faction_autobotism_thecontinentadjassociation"

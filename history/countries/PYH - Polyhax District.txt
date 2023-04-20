@@ -25,7 +25,7 @@ create_country_leader = {
 	desc = ""
 	picture = "warpath.dds"
 	expire = "1965.1.1"
-	ideology = elite_despotism
+	ideology = autocracy
 	traits = {
 		#
 	}

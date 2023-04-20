@@ -1,7 +1,8 @@
 ideologies = {
 	nonaligned = {
 		types = {
-			nonaligned_subideology = {  }
+			despotism = {}
+			aristocracy = {}
 		}
 		dynamic_faction_names = {
 		}
