@@ -2,7 +2,7 @@ ideologies = {
 	elitism = {
 		types = {
 			functionalism = { can_be_randomly_selected = no }
-			oligarchy = {  }
+			clique = {  }
 			autocracy = {  }
 		}
 		dynamic_faction_names = {

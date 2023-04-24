@@ -8,23 +8,33 @@ Havoc
 IronKaiser05
 War Master 23 Rat
 
-----------------
+---------------------
 
 #CUSTOM MODELS USED
+
+-Vehicon Trooper Model
+-Autotrooper Model
 
 Transformers Universe Models by Primus03
 is licensed under Creative Commons Attribution.
 https://sketchfab.com/Primus03
 
+-Generic Medium Tank Model
+
 Smite Megatron Tank by The Transformers dude
 is licensed under Creative Commons Attribution.
 https://skfb.ly/ozxW7
 
+-Light Air Planes Model
+
+F 15 C Cipher by Uxman
+is licensed under Creative Commons Attribution.
+https://skfb.ly/6VnHW
 
 Creative Commons Attribution Lincense used for all models 
 http://creativecommons.org/licenses/by/4.0/
 
-----------------
+---------------------
 
 #LICENSES
 
@@ -97,21 +107,4 @@ Mesa 3-D graphics library 7.0 Copyright (c) 1999-2007 Brian Paul
 GLEW Copyright (c) 2007 The Khronos Group Inc.
 
 cJSON Copyright (c) 2009 Dave Gamble
-
-FORZA DJURGÅR'N!
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
