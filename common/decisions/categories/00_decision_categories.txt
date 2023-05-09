@@ -149,14 +149,6 @@ lar_local_recruitment = {
 				has_country_flag = asia_recruitment_unlocked
 				capital_scope = { is_on_continent = asia }
 			}
-			NOT = {
-				tag = RAJ
-				tag = PAK
-				tag = BAN
-				tag = NEP
-				tag = BHU
-				tag = SRL
-			}
 		}
 	}
 
@@ -181,12 +173,6 @@ lar_local_recruitment = {
 		target_root_trigger = {
 			OR = {
 				has_country_flag = india_recruitment_unlocked
-				tag = RAJ
-				tag = PAK
-				tag = BAN
-				tag = NEP
-				tag = BHU
-				tag = SRL
 			}
 		}
 	}
