@@ -25,7 +25,7 @@ create_country_leader = {
 	desc = ""
 	picture = "Portrait_Perceptor.dds"
 	expire = "1965.1.1"
-	ideology = oligarchy
+	ideology = clique
 	traits = {
 		#
 	}

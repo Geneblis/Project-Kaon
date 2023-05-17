@@ -1,0 +1,41 @@
+
+is_enemy_ideology = {
+	OR = {
+		AND = {
+			has_government = elitism
+			ROOT = {
+				OR = {
+					has_government = proletarianism
+					has_government = decepticonism
+				}
+			}
+		}
+		AND = {
+			has_government = autobotism
+			ROOT = {
+				OR = {
+					has_government = decepticonism
+					has_government = elitism
+				}
+			}
+		}
+		AND = {
+			has_government = proletarianism
+			ROOT = {
+				OR = {
+					has_government = elitism
+					has_government = autobotism
+				}
+			}
+		}
+		AND = {
+			has_government = decepticonism
+			ROOT = {
+				OR = {
+					has_government = elitism
+					has_government = autobotism
+				}
+			}
+		}
+	}
+}
