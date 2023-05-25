@@ -4,6 +4,7 @@ ideologies = {
 			rebellious_miner = {can_be_randomly_selected = no}
 			gladiatorianism = { }
 			ascentionism = {}
+			hokumism = {}
 		}
 		dynamic_faction_names = {
 			"faction_proletarianism_united_cybertron_league"
