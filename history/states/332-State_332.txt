@@ -1,17 +1,22 @@
+
 state={
 	id=332
 	name="STATE_332"
-	history = {
-		owner = AUT
-		add_core_of = AUT
+
+	history={
+		owner = WAS
+		add_core_of = WAS
 		victory_points = {
-			4840 5
+			4840 5 
 		}
+
 	}
+
 	provinces={
-		1711 2032 3391 3496 3861 3871 4304 4576 4840 5456 5584 6803 6968 9311 9350 9357 9359 9383 9403 9411 
+		1711 2032 3391 3496 3861 4304 4576 4840 5456 6803 6968 9350 9357 9359 9383 9403 9411 
 	}
+	manpower=100000
 	buildings_max_level_factor=1.000
-        manpower=100000
-        state_category = large_town
+	state_category=large_town
+	local_supplies=0.000
 }

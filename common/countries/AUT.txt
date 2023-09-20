@@ -1,0 +1,4 @@
+graphical_culture = AUT
+graphical_culture_2d = AUT
+
+color = { 57  113  228 }

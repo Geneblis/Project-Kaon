@@ -65,4 +65,13 @@
  PYH:0 "Polyhex District"
  PYH_DEF:0 "the Polyhex District"
  PYH_ADJ:0 "Polyhexian"
+ HAD:0 "Harmonex Administrative District"
+ HAD_DEF:0 "the Harmonex Administrative District"
+ HAD_ADJ:0 "Harmonexian"
+ HAW:0 "Harmonex Workers' District"
+ HAW_DEF:0 "the Harmonex Workers' District"
+ HAW_ADJ:0 "Harmonexian"
+ WAS:0 "Wasteland"
+ WAS_DEF:0 "the Wasteland"
+ WAS_ADJ:0 "Wastelander"
  
