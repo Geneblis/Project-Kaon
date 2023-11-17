@@ -1,18 +1,13 @@
 ideologies = {
 	proletarianism = {
 		types = {
-			rebellious_miner = {can_be_randomly_selected = no}
-			gladiatorianism = { }
-			ascentionism = {}
-			hokumism = {}
+			gladiatorial_peace = {can_be_randomly_selected = no}
+			tyranny = {can_be_randomly_selected = no}
+			authoritarian_reformism = {}
 		}
 		dynamic_faction_names = {
-			"faction_proletarianism_united_cybertron_league"
-			"faction_proletarianism_cybertron_unity"
-			"faction_proletarianism_the_singularity"
-			"faction_proletarianism_miners"
 		}
-		color = { 114 0 127 }
+		color = { 62 0 79 }
 		can_host_government_in_exile = yes
 		can_collaborate = yes
 		war_impact_on_world_tension = 1
@@ -28,7 +23,12 @@ ideologies = {
 			can_guarantee_other_ideologies = yes
 		}
 		modifiers = {
-			justify_war_goal_when_in_major_war_time = 1
+			generate_wargoal_tension = 1
+			join_faction_tension = 1
+			lend_lease_tension = 1
+			send_volunteers_tension = 1
+			guarantee_tension = 1
+			annex_cost_factor = 1
 			increased_influence_factor = 1
 			drift_defence_factor = 1
 		}

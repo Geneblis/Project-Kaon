@@ -5,19 +5,16 @@
 set_research_slots = 3
 
 set_politics = {
-	ruling_party = proletarianism
+	ruling_party = ascenticonism
 	last_election = "04.11.9"
 	election_frequency = 48
 	elections_allowed = no
 }
 
 set_popularities = {
-	autobotism = 25
-	elitism = 0
-	selfaligned = 0
-	proletarianism = 50
-	nonaligned = 0
-	decepticonism = 25
+	reformism = 25
+	ascenticonism = 50
+	proletarianism = 25
 }
 
 create_country_leader = {

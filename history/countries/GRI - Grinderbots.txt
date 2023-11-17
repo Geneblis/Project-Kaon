@@ -5,19 +5,15 @@
 set_research_slots = 3
 
 set_politics = {
-	ruling_party = elitism
+	ruling_party = conformism
 	last_election = "04.11.9"
 	election_frequency = 48
 	elections_allowed = no
 }
 
 set_popularities = {
-	autobotism = 10
-	elitism = 90
-	selfaligned = 0
-	proletarianism = 0
-	nonaligned = 0
-	decepticonism = 0
+	reformism = 10
+	conformism = 90
 }
 
 create_country_leader = {

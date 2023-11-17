@@ -1,7 +1,7 @@
 ideologies = {
-	autobotism = {
+	reformism = {
 		types = {
-			optimism = {  }
+			orionism = {  }
 			kaonism = {can_be_randomly_selected = no}
 		}
 		dynamic_faction_names = {

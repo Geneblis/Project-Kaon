@@ -5,17 +5,13 @@
 set_research_slots = 3
 
 set_politics = {
-	ruling_party = decepticonism
+	ruling_party = proletarianism
 	elections_allowed = no
 }
 
 set_popularities = {
-	autobotism = 0
-	elitism = 0
 	selfaligned = 80
-	proletarianism = 0
-	nonaligned = 0
-	decepticonism = 20
+	proletarianism = 20
 }
 
 create_country_leader = {

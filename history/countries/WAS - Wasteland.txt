@@ -12,12 +12,7 @@ set_politics = {
 }
 
 set_popularities = {
-	autobotism = 0
-	elitism = 0
-	selfaligned = 0
-	proletarianism = 0
 	nonaligned = 100
-	decepticonism = 0
 }
 
 create_country_leader = {

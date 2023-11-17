@@ -1,5 +1,5 @@
 ideologies = {
-	elitism = {
+	conformism = {
 		types = {
 			functionalism = { can_be_randomly_selected = no }
 			clique = {  }
