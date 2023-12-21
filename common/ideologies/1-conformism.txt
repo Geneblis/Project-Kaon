@@ -7,7 +7,7 @@ ideologies = {
 		}
 		dynamic_faction_names = {
 		}
-		color = { 190 30 30 }
+		color = { 150 10 13 }
 		
 		rules = {
 			can_create_collaboration_government = no
@@ -44,6 +44,6 @@ ideologies = {
 		faction_modifiers = {
 			faction_trade_opinion_factor = 0.25
 		}
-		ai_fascism = yes
+		ai_neutral = yes
 	}
 }

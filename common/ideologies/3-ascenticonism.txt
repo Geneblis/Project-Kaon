@@ -1,10 +1,9 @@
 ideologies = {
 	ascenticonism = {
 		types = {
-			rebellious_miner = {can_be_randomly_selected = no}
 			gladiatorianism = { }
 			ascenticonism_sub_ideology = {}
-			hokumism = {}
+			#hokumism = {}
 		}
 		dynamic_faction_names = {
 			"faction_ascensionism_united_cybertron_league"
@@ -12,7 +11,7 @@ ideologies = {
 			"faction_ascensionism_the_singularity"
 			"faction_ascensionism_miners"
 		}
-		color = { 114 0 127 }
+		color = { 62 0 79 }
 		rules = {
 			can_create_collaboration_government = no
 			can_declare_war_on_same_ideology = yes
@@ -48,6 +47,6 @@ ideologies = {
 		faction_modifiers = {
 			faction_trade_opinion_factor = 0.25
 		}
-		ai_fascism = yes
+		ai_neutral = yes
 	}
 }
