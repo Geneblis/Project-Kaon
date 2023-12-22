@@ -5,16 +5,17 @@
 set_research_slots = 3
 
 set_politics = {
-	ruling_party = conformism
+	ruling_party = proletarianism
 	last_election = "04.11.9"
 	election_frequency = 48
 	elections_allowed = no
 }
 
 set_popularities = {
-	conformism = 70
+	conformism = 30
 	selfaligned = 10
 	ascenticonism = 20
+	proletarianism = 40
 }
 
 create_country_leader = {
@@ -32,7 +33,7 @@ create_country_leader = {
 	desc = ""
 	picture = "Starscream_portrait.dds"
 	expire = "1965.1.1"
-	ideology = tyranny
+	ideology = authoritarian_reformism
 	traits = {
 		#
 	}

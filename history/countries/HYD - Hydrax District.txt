@@ -1,27 +1,27 @@
-﻿capital = 367
+﻿capital = 295
 
 ##oob = "AUS_1936"
 
 set_research_slots = 3
 
 set_politics = {
-	ruling_party = ascenticonism
+	ruling_party = conformism
 	last_election = "04.11.9"
 	election_frequency = 48
 	elections_allowed = no
 }
 
 set_popularities = {
-	ascenticonism = 10
-	proletarianism = 90
+	conformism = 95
+	reformism = 5
 }
 
 create_country_leader = {
-	name = "Barrage"
+	name = "Springer"
 	desc = ""
-	picture = "Portrait_Barrage.dds"
+	picture = "springer.dds"
 	expire = "1965.1.1"
-	ideology = gladiatorianism
+	ideology = autocracy
 	traits = {
 		#
 	}

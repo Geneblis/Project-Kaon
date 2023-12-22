@@ -51,8 +51,8 @@ WRK = {
 	color_ui = rgb { 74 147 255 }
 }
 GRI = {
-	color = rgb { 82 11 21}
-	color_ui = rgb { 82 11 21}
+	color = rgb { 21 50 110 }
+	color_ui = rgb { 21 50 110 }
 }
 LIV = {
 	color = rgb { 117 125 6 }
@@ -89,4 +89,8 @@ HAW = {
 WAS = {
 	color = rgb { 20 20 20 }
 	color_ui = rgb { 20 20 20 }
+}
+HYD = {
+	color = rgb { 44 70 107 }
+	color_ui = rgb { 44 70 107 }
 }

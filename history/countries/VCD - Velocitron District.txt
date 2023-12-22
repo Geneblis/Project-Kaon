@@ -14,7 +14,18 @@ set_politics = {
 set_popularities = {
 	reformism = 20
 	selfaligned = 60
-	proletarianism = 20
+	ascenticonism = 20
+}
+
+create_country_leader = {
+	name = "Motormaster"
+	desc = ""
+	picture = "Portrait_Motormaster_conformism.dds"
+	expire = "1965.1.1"
+	ideology = oligarchy
+	traits = {
+		#
+	}
 }
 
 create_country_leader = {
@@ -22,8 +33,9 @@ create_country_leader = {
 	desc = ""
 	picture = "Portrait_Motormaster.dds"
 	expire = "1965.1.1"
-	ideology = oligarchy
+	ideology = ascenticonism_sub_ideology
 	traits = {
 		#
 	}
 }
+
