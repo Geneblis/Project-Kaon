@@ -12,9 +12,9 @@ set_politics = {
 }
 
 set_popularities = {
-	reformism = 20
+	reformism = 10
 	selfaligned = 60
-	ascenticonism = 20
+	ascenticonism = 30
 }
 
 create_country_leader = {

@@ -5,7 +5,7 @@
 set_research_slots = 3
 
 set_politics = {
-	ruling_party = ascenticonism
+	ruling_party = decepticonism
 	last_election = "04.11.9"
 	election_frequency = 48
 	elections_allowed = no
@@ -13,7 +13,7 @@ set_politics = {
 
 set_popularities = {
 	ascenticonism = 10
-	proletarianism = 90
+	decepticonism = 90
 }
 
 create_country_leader = {

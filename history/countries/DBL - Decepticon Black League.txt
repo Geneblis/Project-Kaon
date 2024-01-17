@@ -5,13 +5,13 @@
 set_research_slots = 3
 
 set_politics = {
-	ruling_party = proletarianism
+	ruling_party = ascenticonism
 	elections_allowed = no
 }
 
 set_popularities = {
 	selfaligned = 80
-	proletarianism = 20
+	ascenticonism = 20
 }
 
 create_country_leader = {
@@ -19,7 +19,7 @@ create_country_leader = {
 	desc = ""
 	picture = "Portrait_Onslaught.dds"
 	expire = "1965.1.1"
-	ideology = tyranny
+	ideology = ascenticonism_sub_ideology
 	traits = {
 	}
 }

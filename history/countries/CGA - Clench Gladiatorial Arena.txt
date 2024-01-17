@@ -12,8 +12,7 @@ set_politics = {
 }
 
 set_popularities = {
-	proletarianism = 2
-	nonaligned = 98
+	nonaligned = 100
 }
 
 create_country_leader = {

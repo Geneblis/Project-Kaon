@@ -13,7 +13,7 @@ set_politics = {
 
 set_popularities = {
 	reformism = 10
-	proletarianism = 10
+	decepticonism = 10
 	nonaligned = 50
 	ascenticonism = 30
 }

@@ -14,7 +14,7 @@ set_politics = {
 set_popularities = {
 	reformism = 20
 	conformism = 70
-	proletarianism = 10
+	ascenticonism = 10
 }
 
 create_country_leader = {

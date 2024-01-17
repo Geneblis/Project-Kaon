@@ -5,14 +5,14 @@
 set_research_slots = 3
 
 set_politics = {
-	ruling_party = ascenticonism
+	ruling_party = decepticonism
 	last_election = "04.11.9"
 	election_frequency = 48
 	elections_allowed = no
 }
 
 set_popularities = {
-	proletarianism = 80
+	decepticonism = 80
 	ascenticonism = 20
 }
 

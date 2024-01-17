@@ -30,7 +30,7 @@ create_country_leader = {
 	desc = ""
 	picture = "Portrait_Tarn.dds"
 	expire = "1965.1.1"
-	ideology = tyranny
+	ideology = gladiatorianism
 	traits = {
 	}
 }
@@ -40,7 +40,7 @@ create_country_leader = {
 	desc = ""
 	picture = "Portrait_Knockout.dds"
 	expire = "1965.1.1"
-	ideology = gladiatorianism
+	ideology = ascenticonism_sub_ideology
 	traits = {
 	}
 }

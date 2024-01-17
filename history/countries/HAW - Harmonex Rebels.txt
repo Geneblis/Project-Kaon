@@ -5,16 +5,16 @@
 set_research_slots = 3
 
 set_politics = {
-	ruling_party = proletarianism
+	ruling_party = ascenticonism
 	last_election = "04.11.9"
 	election_frequency = 48
 	elections_allowed = no
 }
 
 set_popularities = {
-	reformism = 25
-	ascenticonism = 25
-	proletarianism = 50
+	reformism = 28
+	decepticonism = 22
+	ascenticonism = 50
 }
 
 create_country_leader = {
@@ -22,7 +22,7 @@ create_country_leader = {
 	desc = ""
 	picture = "portrait_dropkick.dds"
 	expire = "1965.1.1"
-	ideology = rebellious_miner
+	ideology = gladiatorianism
 	traits = {
 		#
 	}
@@ -32,7 +32,7 @@ create_country_leader = {
 	desc = ""
 	picture = "portrait_dropkick.dds"
 	expire = "1965.1.1"
-	ideology = authoritarian_reformism
+	ideology = ascenticonism_sub_ideology
 	traits = {
 		#
 	}

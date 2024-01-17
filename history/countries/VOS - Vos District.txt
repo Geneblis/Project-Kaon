@@ -15,7 +15,7 @@ set_popularities = {
 	reformism = 70
 	conformism = 0
 	selfaligned = 10
-	proletarianism = 0
+	decepticonism = 0
 	nonaligned = 0
 	ascenticonism = 20
 }

@@ -15,7 +15,7 @@ set_popularities = {
 	reformism = 10
 	conformism = 80
 	ascenticonism = 5
-	proletarianism = 5
+	decepticonism = 5
 }
 
 create_country_leader = {

@@ -1,9 +1,7 @@
 ideologies = {
 	ascenticonism = {
 		types = {
-			gladiatorianism = { }
 			ascenticonism_sub_ideology = {}
-			#hokumism = {}
 		}
 		dynamic_faction_names = {
 			"faction_ascensionism_united_cybertron_league"
