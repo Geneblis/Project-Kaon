@@ -21,9 +21,9 @@ set_popularities = {
 }
 
 create_country_leader = {
-	name = "Grimlock"
+	name = "Kup"
 	desc = ""
-	picture = "Portrait_Grindlock.dds"
+	picture = "Portrait_Kup.dds"
 	expire = "1965.1.1"
 	ideology = clique
 	traits = {
