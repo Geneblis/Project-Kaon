@@ -1,4 +1,4 @@
-﻿#Gates of Iacon: A Cybertron War Mod
+﻿#Gates of Iacon: A Transformers Mod
 
 #LEAD DEVELOPER
 Geneblis
@@ -10,26 +10,39 @@ War Master 23 Rat
 
 ---------------------
 
-#CUSTOM MODELS USED
+#CUSTOM MODELS AND TOOLS USED
 
+The Infantry Models used:
+Runabout (FOC)
+Bulkhead (FOC)
+by hotstar (https://sketchfab.com/flotick64)
+
+is licensed under Creative Commons Attribution.
+
+
+#####################################################
 -Vehicon Trooper Model
 -Autotrooper Model
 
 Transformers Universe Models by Primus03
 is licensed under Creative Commons Attribution.
 https://sketchfab.com/Primus03
+#####################################################
 
--Generic Medium Tank Model
 
-Smite Megatron Tank by The Transformers dude
+Medium Tank Models Used:
+Smite Megatron Tank
+by The Transformers dude (https://skfb.ly/ozxW7)
+
 is licensed under Creative Commons Attribution.
-https://skfb.ly/ozxW7
 
--Light Air Planes Model
+Light Air Planes Models:
+F 15 C Cipher
+by Uxman (https://skfb.ly/6VnHW)
 
-F 15 C Cipher by Uxman
 is licensed under Creative Commons Attribution.
-https://skfb.ly/6VnHW
+
+Custom animations and rig made with Mixamo (Adobe)
 
 Creative Commons Attribution Lincense used for all models 
 http://creativecommons.org/licenses/by/4.0/
