@@ -14,40 +14,23 @@ ideologies = {
 		}
 		color = { 190 30 30 }
 		rules = {
-			can_create_collaboration_government = no
-			can_declare_war_on_same_ideology = yes
-			can_force_government = no
-			can_send_volunteers = yes
-			can_puppet = yes
-			can_lower_tension = yes
-			can_only_justify_war_on_threat_country = yes
-			can_guarantee_other_ideologies = yes
-		}
-		
-		can_host_government_in_exile = yes
-		
-		war_impact_on_world_tension = 0.25
-		faction_impact_on_world_tension = 0.35
-		
-		modifiers = {
-			generate_wargoal_tension = 0.1
-			join_faction_tension = 1.0
-			lend_lease_tension = 0.05
-			send_volunteers_tension = 0.1
-			guarantee_tension = 0.35
-			take_states_cost_factor = 0.1
-			annex_cost_factor = 0.1
-			justify_war_goal_when_in_major_war_time = 0.1
-			drift_defence_factor = -0.15
-			puppet_cost_factor = 0.1
-		}
-		
-		can_be_boosted = no
-		can_collaborate = yes
-		
-		faction_modifiers = {
-			faction_trade_opinion_factor = 0.25
-		}
-		ai_neutral = yes
+            can_force_government = no
+            can_puppet = no
+            can_join_factions = no
+            can_create_factions = no
+            can_send_volunteers = yes
+        }
+        can_collaborate = yes
+        can_host_government_in_exile = yes
+        modifiers = {
+            generate_wargoal_tension = 0.15
+            guarantee_tension = 0.5
+            civilian_intel_to_others = 10.0
+            army_intel_to_others = 7.5
+            navy_intel_to_others = 12.5
+            airforce_intel_to_others = 7.5
+        }
+        ai_neutral = yes
+        can_be_boosted = no
 	}
 }
