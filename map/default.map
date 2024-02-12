@@ -1,7 +1,7 @@
 definitions = "definition.csv"
 provinces = "provinces.bmp"
 positions = "positions.txt"
-terrain = "custom_terrain.bmp"
+terrain = "terrain.bmp"
 rivers = "rivers.bmp"
 heightmap = "heightmap.bmp"
 tree_definition = "trees.bmp"
