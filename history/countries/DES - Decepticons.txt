@@ -1,6 +1,29 @@
-﻿capital = 158
+﻿capital = 342
 
-##oob = "DES_1936"
+set_technology = {
+	infantry_weapons = 1
+}
+
+522.1.1 = {
+	division_template = {
+		name = "Megatron Rebellion"
+		is_locked = yes
+		priority = 1
+		template_counter = 0
+		regiments = {
+			infantry = { x = 0 y = 0 }
+			infantry = { x = 0 y = 1 }
+			infantry = { x = 0 y = 2 }
+			infantry = { x = 0 y = 3 }
+			infantry = { x = 1 y = 0 }
+		}
+	}
+	342 = {
+		create_unit = {
+			division = "name = \"Megatron Rebellion\" division_template = \"Megatron Rebellion\" start_experience_factor = 0.2 start_manpower_factor = 1.0 start_equipment_factor = 0.4" owner = PREV count = 6 allow_spawning_on_enemy_provs = yes
+		}
+	}
+}
 
 set_research_slots = 3
 
