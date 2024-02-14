@@ -13,19 +13,28 @@ set_politics = {
 
 set_popularities = {
 	selfaligned = 95
-	proletarianism = 5
+	ascenticonism = 5
 }
 
-create_country_leader = {
+generate_character = {
+	token_base = Soundblaster
 	name = "Soundblaster"
-	desc = ""
-	picture = "Portrait_Soundblaster.dds"
-	expire = "1965.1.1"
-	ideology = mercenary_organization
-	traits = {
-		#
+	portraits = {
+		civilian = {
+			large="gfx/leaders/MRC/Portrait_Soundblaster.png"
+			small="GFX_idea_generic_political_advisor_europe_5" 
+		}
+	}
+	country_leader = {
+		ideology = mercenary_organization
+		expire = 1983.10.6
+		traits = {  
+
+		}
+		desc = ""
 	}
 }
+
 
 create_faction = merc_fac
 add_to_faction = GCT

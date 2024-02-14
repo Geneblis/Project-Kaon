@@ -20,13 +20,20 @@ set_popularities = {
 	ascenticonism = 20
 }
 
-create_country_leader = {
+generate_character = {
+	token_base = Jetfire
 	name = "Jetfire"
-	desc = ""
-	picture = "jetfire.dds"
-	expire = "1965.1.1"
-	ideology = orionism
-	traits = {
-		#
+	portraits = {
+		civilian = {
+			large="gfx/leaders/VOS/jetfire.png"
+		}
+	}
+	country_leader = {
+		ideology = orionism
+		expire = 1983.10.6
+		traits = {  
+
+		}
+		desc = ""
 	}
 }

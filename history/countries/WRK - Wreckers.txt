@@ -20,13 +20,20 @@ set_popularities = {
 	ascenticonism = 0
 }
 
-create_country_leader = {
+generate_character = {
+	token_base = Kup
 	name = "Kup"
-	desc = ""
-	picture = "Portrait_Kup.dds"
-	expire = "1965.1.1"
-	ideology = clique
-	traits = {
-		#
+	portraits = {
+		civilian = {
+			large="gfx/leaders/WRK/Portrait_Kup.png"
+		}
+	}
+	country_leader = {
+		ideology = clique
+		expire = 1983.10.6
+		traits = {  
+
+		}
+		desc = ""
 	}
 }

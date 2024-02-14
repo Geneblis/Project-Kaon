@@ -20,12 +20,19 @@ set_popularities = {
 	ascenticonism = 0
 }
 
-create_country_leader = {
+generate_character = {
+	token_base = Cliffjumper
 	name = "Cliffjumper"
-	desc = ""
-	picture = "Cliffjumper.dds"
-	expire = "1965.1.1"
-	ideology = functionalism
-	traits = {
+	portraits = {
+		civilian = {
+			large="gfx/leaders/ASD/Cliffjumper.png"
+		}
+	}
+	country_leader = {
+		ideology = functionalism
+		expire = 1983.10.6
+		traits = {
+		}
+		#desc = ""
 	}
 }

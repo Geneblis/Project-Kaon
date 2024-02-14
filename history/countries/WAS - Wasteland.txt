@@ -15,13 +15,21 @@ set_popularities = {
 	nonaligned = 100
 }
 
-create_country_leader = {
+generate_character = {
+	token_base = Wasteland
 	name = "Wasteland"
-	desc = ""
-	picture = "deadass.dds"
-	expire = "1965.1.1"
-	ideology = despotism
-	traits = {
-		#
+	portraits = {
+		civilian = {
+			large="gfx/leaders/WAS/deadass.png"
+			small="GFX_idea_generic_political_advisor_europe_5" 
+		}
+	}
+	country_leader = {
+		ideology = despotism
+		expire = 1983.10.6
+		traits = {  
+
+		}
+		desc = ""
 	}
 }
