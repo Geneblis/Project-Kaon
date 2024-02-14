@@ -5,7 +5,7 @@ is_enemy_ideology = {
 			has_government = elitism
 			ROOT = {
 				OR = {
-					has_government = proletarianism
+					has_government = ascenticonism
 					has_government = decepticonism
 				}
 			}
@@ -20,7 +20,7 @@ is_enemy_ideology = {
 			}
 		}
 		AND = {
-			has_government = proletarianism
+			has_government = ascenticonism
 			ROOT = {
 				OR = {
 					has_government = elitism
