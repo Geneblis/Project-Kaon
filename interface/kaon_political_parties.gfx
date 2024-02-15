@@ -1,0 +1,26 @@
+spriteTypes = {
+	spriteType = {
+		name = "GFX_ideology_conformism_group"
+		texturefile = "gfx/interface/ideologies/conformism.dds"
+	}
+	spriteType = {
+		name = "GFX_ideology_reformism_group"
+		texturefile = "gfx/interface/ideologies/reformism.dds"
+	}
+	spriteType = {
+		name = "GFX_ideology_decepticonism_group"
+		texturefile = "gfx/interface/ideologies/decepticonism.dds"
+	}
+	spriteType = {
+		name = "GFX_ideology_ascenticonism_group"
+		texturefile = "gfx/interface/ideologies/ascenticonism.dds"
+	}
+	spriteType = {
+		name = "GFX_ideology_nonaligned_group"
+		texturefile = "gfx/interface/ideologies/nonaligned.dds"
+	}
+	spriteType = {
+		name = "GFX_ideology_selfaligned_group"
+		texturefile = "gfx/interface/ideologies/selfaligned.dds"
+	}
+}

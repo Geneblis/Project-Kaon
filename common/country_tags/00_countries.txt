@@ -22,3 +22,7 @@ HAD = "countries/AUT.txt"
 HAW = "countries/DES.txt"
 WAS = "countries/DES.txt"
 HYD = "countries/AUT.txt"
+TSE = "countries/AUT.txt"
+ACP = "countries/AUT.txt"
+
+

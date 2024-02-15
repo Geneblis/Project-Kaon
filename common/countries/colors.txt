@@ -94,3 +94,11 @@ HYD = {
 	color = rgb { 44 70 107 }
 	color_ui = rgb { 44 70 107 }
 }
+TSE = {
+	color = rgb { 54 78 102 }
+	color_ui = rgb { 54 78 102 }
+}
+ACP = {
+	color = rgb { 60 80 120 }
+	color_ui = rgb { 60 80 120 }
+}

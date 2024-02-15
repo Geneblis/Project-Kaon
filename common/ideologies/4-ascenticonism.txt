@@ -9,7 +9,7 @@ ideologies = {
 			"faction_ascensionism_the_singularity"
 			"faction_ascensionism_miners"
 		}
-		color = { 62 0 79 }
+		color = { 114 0 127 }
 		rules = {
             can_force_government = no
             can_puppet = no

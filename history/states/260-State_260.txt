@@ -1,17 +1,22 @@
+
 state={
 	id=260
 	name="STATE_260"
-	history = {
+
+	history={
 		owner = AUT
 		add_core_of = AUT
 		victory_points = {
-			1241 18
+			1241 18 
 		}
+
 	}
+
 	provinces={
-		326 1100 1127 1241 1879 2799 2881 3381 5080 6191 6290 6902 7046 7086 8809 8835 8837 8897 8919 
+		326 1100 1127 1241 1879 2799 2881 3381 5080 6191 6290 6902 7046 7086 8809 8835 8837 8876 8897 8919 
 	}
+	manpower=100000
 	buildings_max_level_factor=1.000
-        manpower=100000
-        state_category = large_town
+	state_category=large_town
+	local_supplies=0.000
 }

@@ -1,0 +1,56 @@
+﻿capital = 46
+
+##oob = "AUS_1936"
+
+set_research_slots = 3
+
+set_politics = {
+	ruling_party = nonaligned
+	last_election = "04.11.9"
+	election_frequency = 48
+	elections_allowed = no
+}
+
+set_popularities = {
+	reformism = 15
+	conformism = 0
+	selfaligned = 0
+	decepticonism = 0
+	nonaligned = 85
+	ascenticonism = 0
+}
+
+generate_character = {
+	token_base = ACP_hot_rod
+	name = "Hot Rod"
+	portraits = {
+		civilian = {
+			large="gfx/leaders/ACP/Hot_Rod.png"
+		}
+	}
+	country_leader = {
+		ideology = aristocracy
+		expire = 1983.10.6
+		traits = {  
+
+		}
+		desc = ""
+	}
+}
+generate_character = {
+	token_base = ACP_rodimus
+	name = "Rodimus Prime"
+	portraits = {
+		civilian = {
+			large="gfx/leaders/ACP/Rodimus.png"
+		}
+	}
+	country_leader = {
+		ideology = orionism
+		expire = 1983.10.6
+		traits = {  
+
+		}
+		desc = ""
+	}
+}

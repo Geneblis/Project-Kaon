@@ -77,4 +77,10 @@
  HYD:0 "Hydrax District"
  HYD_DEF:0 "the Hydrax District"
  HYD_ADJ:0 "Hydraxian"
+ TSE:0 "Tesarus District"
+ TSE_DEF:0 "the Tesarus District"
+ TSE_ADJ:0 "Tesarian"
+ ACP:0 "Free City of Acroplex"
+ ACP_DEF:0 "the Acroplex Free City"
+ ACP_ADJ:0 "Acroplexian"
  

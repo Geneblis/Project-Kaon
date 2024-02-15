@@ -1,4 +1,4 @@
-﻿capital = 253
+﻿capital = 274
 
 ##oob = "AUS_1936"
 
@@ -9,6 +9,26 @@ set_politics = {
 	last_election = "04.11.9"
 	election_frequency = 48
 	elections_allowed = no
+}
+
+522.1.1 = {
+	division_template = {
+		name = "Assault Division"
+		priority = 1
+		regiments = {
+			infantry = { x = 0 y = 0 }
+			infantry = { x = 0 y = 1 }
+			infantry = { x = 0 y = 2 }
+			infantry = { x = 0 y = 3 }
+			infantry = { x = 1 y = 0 }
+			infantry = { x = 1 y = 1 }
+		}
+	}
+	274 = {
+		create_unit = {
+			division = "name = \"Assault Division\" division_template = \"Assault Division\" start_experience_factor = 0.2 start_manpower_factor = 1.0 start_equipment_factor = 0.4" owner = PREV count = 7 allow_spawning_on_enemy_provs = yes
+		}
+	}
 }
 
 set_popularities = {

@@ -1,0 +1,56 @@
+﻿capital = 46
+
+##oob = "AUS_1936"
+
+set_research_slots = 3
+
+set_politics = {
+	ruling_party = conformism
+	last_election = "04.11.9"
+	election_frequency = 48
+	elections_allowed = no
+}
+
+set_popularities = {
+	reformism = 5
+	conformism = 90
+	selfaligned = 5
+	decepticonism = 0
+	nonaligned = 0
+	ascenticonism = 0
+}
+
+generate_character = {
+	token_base = TSE_autobot_Barricade
+	name = "Barricade"
+	portraits = {
+		civilian = {
+			large="gfx/leaders/TSE/Autobot_Barricade.png"
+		}
+	}
+	country_leader = {
+		ideology = autocracy
+		expire = 1983.10.6
+		traits = {  
+
+		}
+		desc = ""
+	}
+}
+generate_character = {
+	token_base = TSE_Barricade
+	name = "Barricade"
+	portraits = {
+		civilian = {
+			large="gfx/leaders/TSE/Barricade.png"
+		}
+	}
+	country_leader = {
+		ideology = gladiatorianism
+		expire = 1983.10.6
+		traits = {  
+
+		}
+		desc = ""
+	}
+}
