@@ -10,7 +10,7 @@ tags={
 	"Technologies"
 }
 name="Project Kaon"
-supported_version="1.13.*"
+supported_version="1.14.*"
 replace_path="common/ai_strategy"
 replace_path="common/ai_strategy_plans"
 replace_path="common/ai_equipment"
