@@ -1,17 +1,22 @@
+
 state={
 	id=384
 	name="STATE_384"
-	history = {
+
+	history={
 		owner = ASP
 		add_core_of = ASP
 		victory_points = {
-			3694 14
+			3694 14 
 		}
+
 	}
+
 	provinces={
-		590 697 2219 2325 2411 2433 3260 3694 4343 5215 5519 6316 7155 9531 9537 9547 9561 9576 
+		590 2325 2411 2433 3260 3694 5215 7155 9531 9537 9547 9576 
 	}
+	manpower=100000
 	buildings_max_level_factor=1.000
-        manpower=100000
-        state_category = large_town
+	state_category=large_town
+	local_supplies=0.000
 }

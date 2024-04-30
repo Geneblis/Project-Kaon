@@ -1,17 +1,22 @@
+
 state={
 	id=3
 	name="STATE_3"
-	history = {
-		owner = AUT
-		add_core_of = AUT
+
+	history={
+		owner = ASP
+		add_core_of = ASP
 		victory_points = {
-			9603 11
+			9561 11 
 		}
+
 	}
+
 	provinces={
-		9603 
+		697 2219 4343 5519 6316 9561 
 	}
+	manpower=100000
 	buildings_max_level_factor=1.000
-        manpower=100000
-        state_category = large_town
+	state_category=large_town
+	local_supplies=0.000
 }
