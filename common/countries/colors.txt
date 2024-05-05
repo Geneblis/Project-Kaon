@@ -87,8 +87,8 @@ HAW = {
 	color_ui = rgb { 117 80 123 }
 }
 WAS = {
-	color = rgb { 20 20 20 }
-	color_ui = rgb { 20 20 20 }
+	color = rgb { 82 118 105 }
+	color_ui = rgb { 82 118 105 }
 }
 HYD = {
 	color = rgb { 44 70 107 }
@@ -101,4 +101,8 @@ TSE = {
 ACP = {
 	color = rgb { 60 80 120 }
 	color_ui = rgb { 60 80 120 }
+}
+CRT = {
+	color = rgb { 40 60 100 }
+	color_ui = rgb { 40 60 100 }
 }

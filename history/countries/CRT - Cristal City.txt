@@ -1,0 +1,44 @@
+﻿capital = 158
+
+##oob = "DES_1936"
+
+set_research_slots = 3
+
+set_politics = {
+	ruling_party = nonaligned
+	last_election = "04.11.9"
+	election_frequency = 48
+	elections_allowed = no
+}
+
+set_popularities = {
+	nonaligned = 70
+	reformism = 30
+}
+
+generate_character = {
+	token_base = CRT_red_alert
+	name = "Red Alert"
+	portraits = {
+		civilian = {
+			large="gfx/leaders/CRT/Red_Alert_neutral.png"
+		}
+	}
+	country_leader = {
+		ideology = despotism
+		expire = 1983.10.6
+		traits = {  
+			#
+		}
+		desc = ""
+	}
+	country_leader = {
+		ideology = orionism
+		expire = 1983.10.6
+		traits = {  
+			#
+		}
+		desc = ""
+	}
+}
+

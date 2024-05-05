@@ -20,6 +20,9 @@ set_popularities = {
 	ascenticonism = 0
 }
 
+create_faction = nail_fac
+add_to_faction = CRT
+
 generate_character = {
 	token_base = ACP_hot_rod
 	name = "Hot Rod"
