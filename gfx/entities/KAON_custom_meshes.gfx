@@ -10,7 +10,7 @@ objectTypes = {
 objectTypes = {	
 	pdxmesh = {
 		name = "AUT_infantry_rifle_mesh"
-		file = "gfx/models/units/autotrooper.mesh"
+		file = "gfx/models/units/autotropper_infantry.mesh"
 
 		animation = { id = "idle"			type = "GER_infantry_rifle_idle_animation" }
 		animation = { id = "attack"			type = "GER_infantry_rifle_attack_animation" }
@@ -45,7 +45,7 @@ objectTypes = {
 objectTypes = {	
 	pdxmesh = {
 		name = "AUT_marine_rifle_mesh"
-		file = "gfx/models/units/autotrooper.mesh"
+		file = "gfx/models/units/autotropper_infantry.mesh"
 
 		animation = { id = "idle"			type = "GER_infantry_rifle_idle_animation" }
 		animation = { id = "attack"			type = "GER_infantry_rifle_attack_animation" }
@@ -80,7 +80,7 @@ objectTypes = {
 objectTypes = {
 	pdxmesh = {
 		name = "AUT_infantry_mg_mesh"
-		file = "gfx/models/units/autotrooper.mesh"
+		file = "gfx/models/units/autotropper_infantry.mesh"
 
 		animation = { id = "idle"			type = "GER_infantry_mg_idle_animation" }
 		animation = { id = "attack"			type = "GER_infantry_mg_attack_animation" }
@@ -115,7 +115,7 @@ objectTypes = {
 objectTypes = {	
 	pdxmesh = {
 		name = "AUT_infantry_rifle_mesh"
-		file = "gfx/models/units/autotrooper.mesh"
+		file = "gfx/models/units/autotropper_infantry.mesh"
 
 		animation = { id = "idle"			type = "GER_infantry_rifle_idle_animation" }
 		animation = { id = "attack"			type = "GER_infantry_rifle_attack_animation" }
@@ -150,7 +150,7 @@ objectTypes = {
 objectTypes = {	
 	pdxmesh = {
 		name = "AUT_marine_mg_mesh"
-		file = "gfx/models/units/autotrooper.mesh"
+		file = "gfx/models/units/autotropper_infantry.mesh"
 
 		animation = { id = "idle"			type = "GER_infantry_mg_idle_animation" }
 		animation = { id = "attack"			type = "GER_infantry_mg_attack_animation" }
@@ -185,7 +185,7 @@ objectTypes = {
 objectTypes = {	
 	pdxmesh = {
 		name = "AUT_paratrooper_rifle_mesh"
-		file = "gfx/models/units/autotrooper.mesh"
+		file = "gfx/models/units/autotropper_infantry.mesh"
 
 		animation = { id = "idle"			type = "GER_infantry_rifle_idle_animation" }
 		animation = { id = "attack"			type = "GER_infantry_rifle_attack_animation" }
@@ -220,7 +220,7 @@ objectTypes = {
 objectTypes = {	
 	pdxmesh = {
 		name = "AUT_paratrooper_mg_mesh"
-		file = "gfx/models/units/autotrooper.mesh"
+		file = "gfx/models/units/autotropper_infantry.mesh"
 
 		animation = { id = "idle"			type = "GER_infantry_mg_idle_animation" }
 		animation = { id = "attack"			type = "GER_infantry_mg_attack_animation" }
@@ -255,7 +255,7 @@ objectTypes = {
 objectTypes = {	
 	pdxmesh = {
 		name = "AUT_mountaineers_rifle_mesh"
-		file = "gfx/models/units/autotrooper.mesh"
+		file = "gfx/models/units/autotropper_infantry.mesh"
 
 		animation = { id = "idle"			type = "GER_infantry_rifle_idle_animation" }
 		animation = { id = "attack"			type = "GER_infantry_rifle_attack_animation" }
@@ -290,7 +290,7 @@ objectTypes = {
 objectTypes = {	
 	pdxmesh = {
 		name = "AUT_mountaineers_mg_mesh"
-		file = "gfx/models/units/autotrooper.mesh"
+		file = "gfx/models/units/autotropper_infantry.mesh"
 
 		animation = { id = "idle"			type = "GER_infantry_mg_idle_animation" }
 		animation = { id = "attack"			type = "GER_infantry_mg_attack_animation" }
