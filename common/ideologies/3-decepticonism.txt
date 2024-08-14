@@ -2,6 +2,7 @@ ideologies = {
 	decepticonism = {
 		types = {
 			gladiatorianism = {}
+            kratocracy = {}
 		}
 		dynamic_faction_names = {
 			"faction_ascensionism_united_cybertron_league"

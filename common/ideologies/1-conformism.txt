@@ -5,6 +5,7 @@ ideologies = {
 			functionalism = { can_be_randomly_selected = no }
 			clique = {  }
 			autocracy = {  }
+            stratocracy = {}
 		}
 		dynamic_faction_names = {
 			"faction_autobotism_thecontinentadjassociation"
