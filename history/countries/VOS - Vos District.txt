@@ -29,7 +29,7 @@ generate_character = {
 		}
 	}
 	country_leader = {
-		ideology = orionism
+		ideology = consociationalism
 		expire = 1983.10.6
 		traits = {  
 

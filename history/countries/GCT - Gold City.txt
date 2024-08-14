@@ -17,13 +17,20 @@ set_popularities = {
 	nonaligned = 30
 }
 
-create_country_leader = {
+generate_character = {
+	token_base = GCT_Ruckus
 	name = "Ruckus"
-	desc = ""
-	picture = "gfx/leaders/GCT/Portrait_Ruckus.png"
-	expire = "1965.1.1"
-	ideology = mercenary_organization
-	traits = {
-		#
+	portraits = {
+		civilian = {
+			large="gfx/leaders/GCT/Portrait_Ruckus.png"
+		}
+	}
+	country_leader = {
+		ideology = mercenary_organization
+		expire = 1983.10.6
+		traits = {
+		}
+		desc = ""
 	}
 }
+

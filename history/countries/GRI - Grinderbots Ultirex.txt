@@ -16,13 +16,20 @@ set_popularities = {
 	conformism = 90
 }
 
-create_country_leader = {
+generate_character = {
+	token_base = GRI_perceptor
 	name = "Perceptor"
-	desc = ""
-	picture = "gfx/leaders/GRI/Portrait_Perceptor.png"
-	expire = "1965.1.1"
-	ideology = clique
-	traits = {
-		#
+	portraits = {
+		civilian = {
+			large="gfx/leaders/GRI/Portrait_Perceptor.png"
+		}
+	}
+	country_leader = {
+		ideology = clique
+		expire = 1983.10.6
+		traits = {
+		}
+		desc = ""
 	}
 }
+

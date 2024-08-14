@@ -16,13 +16,20 @@ set_popularities = {
 	reformism = 5
 }
 
-create_country_leader = {
+generate_character = {
+	token_base = HYD_Springer
 	name = "Springer"
-	desc = ""
-	picture = "gfx/leaders/HYD/springer.png"
-	expire = "1965.1.1"
-	ideology = autocracy
-	traits = {
-		#
+	portraits = {
+		civilian = {
+			large="gfx/leaders/HYD/springer.png"
+		}
+	}
+	country_leader = {
+		ideology = stratocracy
+		expire = 1983.10.6
+		traits = {
+		}
+		desc = ""
 	}
 }
+

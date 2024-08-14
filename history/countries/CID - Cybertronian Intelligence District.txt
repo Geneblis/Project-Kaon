@@ -18,23 +18,27 @@ set_popularities = {
 	decepticonism = 40
 }
 
-create_country_leader = {
+generate_character = {
+	token_base = CID_starscream
 	name = "Starscream"
-	desc = ""
-	picture = "gfx/leaders/CID/Starscream_portrait.png"
-	expire = "1965.1.1"
-	ideology = functionalism
-	traits = {
-		#
+	portraits = {
+		civilian = {
+			large="gfx/leaders/CID/Starscream_portrait.png"
+		}
+	}
+	country_leader = {
+		ideology = clique
+		expire = 1983.10.6
+		traits = {
+		}
+		desc = ""
+	}
+	country_leader = {
+		ideology = ascenticonism_sub_ideology
+		expire = 1983.10.6
+		traits = {
+		}
+		desc = ""
 	}
 }
-create_country_leader = {
-	name = "Starscream"
-	desc = ""
-	picture = "gfx/leaders/CID/Starscream_portrait.png"
-	expire = "1965.1.1"
-	ideology = ascenticonism_sub_ideology
-	traits = {
-		#
-	}
-}
+

@@ -46,7 +46,7 @@ generate_character = {
 		}
 	}
 	country_leader = {
-		ideology = gladiatorianism
+		ideology = kratocracy
 		expire = 1983.10.6
 		traits = {  
 

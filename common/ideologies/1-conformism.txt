@@ -3,8 +3,8 @@ ideologies = {
 		types = {
 			hardline_functionalism = { can_be_randomly_selected = no }
 			functionalism = { can_be_randomly_selected = no }
-			clique = {  }
-			autocracy = {  }
+			clique = {}
+			autocracy = {}
             stratocracy = {}
 		}
 		dynamic_faction_names = {

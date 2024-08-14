@@ -39,14 +39,20 @@ set_popularities = {
 	ascenticonism = 20
 }
 
-create_country_leader = {
+generate_character = {
+	token_base = DES_Megatron
 	name = "Megatron"
-	desc = ""
-	picture = "gfx/leaders/DES/Megatron_normal.png"
-	expire = "1965.1.1"
-	ideology = gladiatorianism
-	traits = {
-		#
+	portraits = {
+		civilian = {
+			large="gfx/leaders/DES/Megatron_normal.png"
+		}
+	}
+	country_leader = {
+		ideology = gladiatorianism
+		expire = 1983.10.6
+		traits = {
+		}
+		desc = ""
 	}
 }
 

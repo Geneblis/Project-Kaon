@@ -37,25 +37,27 @@ set_popularities = {
 	ascenticonism = 50
 }
 
-create_country_leader = {
+generate_character = {
+	token_base = HAW_Dropkick
 	name = "Dropkick"
-	desc = ""
-	picture = "gfx/leaders/HAW/portrait_dropkick.png"
-	expire = "1965.1.1"
-	ideology = gladiatorianism
-	traits = {
-		#
+	portraits = {
+		civilian = {
+			large="gfx/leaders/HAW/portrait_dropkick.png"
+		}
+	}
+	country_leader = {
+		ideology = gladiatorianism
+		expire = 1983.10.6
+		traits = {
+		}
+		desc = ""
+	}
+	country_leader = {
+		ideology = ascenticonism_sub_ideology
+		expire = 1983.10.6
+		traits = {
+		}
+		desc = ""
 	}
 }
-create_country_leader = {
-	name = "Dropkick"
-	desc = ""
-	picture = "gfx/leaders/HAW/portrait_dropkick.png"
-	expire = "1965.1.1"
-	ideology = ascenticonism_sub_ideology
-	traits = {
-		#
-	}
-}
-
 

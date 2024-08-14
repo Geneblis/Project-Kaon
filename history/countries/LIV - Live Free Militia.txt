@@ -18,13 +18,20 @@ set_popularities = {
 	ascenticonism = 30
 }
 
-create_country_leader = {
+generate_character = {
+	token_base = LIV_Diehard
 	name = "Diehard"
-	desc = ""
-	picture = "gfx/leaders/LIV/Portrait_Diehard.png"
-	expire = "1965.1.1"
-	ideology = despotism
-	traits = {
-		#
+	portraits = {
+		civilian = {
+			large="gfx/leaders/LIV/Portrait_Diehard.png"
+		}
+	}
+	country_leader = {
+		ideology = band_society
+		expire = 1983.10.6
+		traits = {
+		}
+		desc = ""
 	}
 }
+

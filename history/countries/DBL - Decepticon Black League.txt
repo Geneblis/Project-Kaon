@@ -14,12 +14,27 @@ set_popularities = {
 	ascenticonism = 20
 }
 
-create_country_leader = {
+generate_character = {
+	token_base = DBL_Onslaught
 	name = "Onslaught"
-	desc = ""
-	picture = "gfx/leaders/DBL/Portrait_Onslaught.png"
-	expire = "1965.1.1"
-	ideology = ascenticonism_sub_ideology
-	traits = {
+	portraits = {
+		civilian = {
+			large="gfx/leaders/DBL/Portrait_Onslaught.png"
+		}
+	}
+	country_leader = {
+		ideology = ascenticonism_sub_ideology
+		expire = 1983.10.6
+		traits = {
+		}
+		desc = ""
+	}
+	country_leader = {
+		ideology = kratocracy
+		expire = 1983.10.6
+		traits = {
+		}
+		desc = ""
 	}
 }
+

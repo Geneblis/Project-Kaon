@@ -9,7 +9,7 @@ bookmarks = {
 
 			AUT ={
 				history = "AUT_GOLDEN_AGE_DESC"
-                ideology = elitism
+                ideology = reformism
 			    ideas = {
 					ACR_anti_bolivian_propaganda 
 					ACR_funai 

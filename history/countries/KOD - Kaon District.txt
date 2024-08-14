@@ -18,14 +18,20 @@ set_popularities = {
 	decepticonism = 5
 }
 
-create_country_leader = {
+generate_character = {
+	token_base = KOD_ultra_magnus
 	name = "Ultra Magnus"
-	desc = ""
-	picture = "gfx/leaders/KOD/Portrait_Magnus.png"
-	expire = "1965.1.1"
-	ideology = functionalism
-	traits = {
-		#
+	portraits = {
+		civilian = {
+			large="gfx/leaders/KOD/Portrait_Magnus.png"
+		}
+	}
+	country_leader = {
+		ideology = functionalism
+		expire = 1983.10.6
+		traits = {
+		}
+		desc = ""
 	}
 }
 

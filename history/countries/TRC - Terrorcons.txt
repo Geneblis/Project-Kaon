@@ -16,13 +16,19 @@ set_popularities = {
 	decepticonism = 90
 }
 
-create_country_leader = {
+generate_character = {
+	token_base = TRC_Barrage
 	name = "Barrage"
-	desc = ""
-	picture = "gfx/leaders/TRC/Portrait_Barrage.png"
-	expire = "1965.1.1"
-	ideology = gladiatorianism
-	traits = {
-		#
+	portraits = {
+		civilian = {
+			large="gfx/leaders/TRC/Portrait_Barrage.png"
+		}
+	}
+	country_leader = {
+		ideology = kratocracy
+		expire = 1983.10.6
+		traits = {
+		}
+		desc = ""
 	}
 }

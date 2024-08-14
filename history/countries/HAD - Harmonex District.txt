@@ -41,14 +41,20 @@ declare_war_on = {
     type = annex_everything
 }
 
-create_country_leader = {
+generate_character = {
+	token_base = HAD_Brawn
 	name = "Brawn"
-	desc = ""
-	picture = "gfx/leaders/HAD/portrait_brawn.png"
-	expire = "1965.1.1"
-	ideology = autocracy
-	traits = {
-		#
+	portraits = {
+		civilian = {
+			large="gfx/leaders/HAD/portrait_brawn.png"
+		}
+	}
+	country_leader = {
+		ideology = autocracy
+		expire = 1983.10.6
+		traits = {
+		}
+		desc = ""
 	}
 }
 

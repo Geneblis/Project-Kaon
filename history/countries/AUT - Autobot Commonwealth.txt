@@ -17,14 +17,27 @@ set_popularities = {
 	ascenticonism = 10
 }
 
-create_country_leader = {
+generate_character = {
+	token_base = AUT_optimus
 	name = "Optimus Prime"
-	desc = ""
-	picture = "gfx/leaders/AUT/Portrait_Optimus_Prime.png"
-	expire = "1965.1.1"
-	ideology = orionism
-	traits = {
-		#
+	portraits = {
+		civilian = {
+			large="gfx/leaders/AUT/Portrait_Optimus_Prime.png"
+		}
+	}
+	country_leader = {
+		ideology = orionism
+		expire = 1983.10.6
+		traits = {
+		}
+		desc = ""
+	}
+	country_leader = {
+		ideology = autocracy
+		expire = 1983.10.6
+		traits = {
+		}
+		desc = ""
 	}
 }
 

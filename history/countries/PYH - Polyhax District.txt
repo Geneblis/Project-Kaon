@@ -17,14 +17,20 @@ set_popularities = {
 	ascenticonism = 10
 }
 
-create_country_leader = {
+generate_character = {
+	token_base = PYH_warpath
 	name = "Warpath"
-	desc = ""
-	picture = "gfx/leaders/PYH/warpath.png"
-	expire = "1965.1.1"
-	ideology = autocracy
-	traits = {
-		#
+	portraits = {
+		civilian = {
+			large="gfx/leaders/PYH/warpath.png"
+		}
+	}
+	country_leader = {
+		ideology = stratocracy
+		expire = 1983.10.6
+		traits = {
+		}
+		desc = ""
 	}
 }
 

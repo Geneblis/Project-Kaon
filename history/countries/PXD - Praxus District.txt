@@ -17,13 +17,19 @@ set_popularities = {
 	ascenticonism = 10
 }
 
-create_country_leader = {
+generate_character = {
+	token_base = PXD_ironhide
 	name = "Ironhide"
-	desc = ""
-	picture = "gfx/leaders/PXD/Portrait_Ironhide.png"
-	expire = "1965.1.1"
-	ideology = orionism
-	traits = {
-		#
+	portraits = {
+		civilian = {
+			large="gfx/leaders/PXD/Portrait_Ironhide.png"
+		}
+	}
+	country_leader = {
+		ideology = consociationalism
+		expire = 1983.10.6
+		traits = {
+		}
+		desc = ""
 	}
 }

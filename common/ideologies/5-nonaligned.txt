@@ -3,6 +3,7 @@ ideologies = {
 		types = {
 			despotism = {}
 			aristocracy = {}
+            band_society = {}
 		}
 		dynamic_faction_names = {
 		}

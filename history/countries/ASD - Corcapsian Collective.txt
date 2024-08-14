@@ -5,7 +5,7 @@
 set_research_slots = 3
 
 set_politics = {
-	ruling_party = conformism
+	ruling_party = reformism
 	last_election = "04.11.9"
 	election_frequency = 48
 	elections_allowed = no
@@ -29,7 +29,7 @@ generate_character = {
 		}
 	}
 	country_leader = {
-		ideology = functionalism
+		ideology = consociationalism
 		expire = 1983.10.6
 		traits = {
 		}
