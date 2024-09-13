@@ -1,0 +1,39 @@
+﻿capital = 6
+
+##oob = "DES_1936"
+
+set_research_slots = 3
+
+set_politics = {
+	ruling_party = nonaligned
+	last_election = "04.11.9"
+	election_frequency = 48
+	elections_allowed = no
+}
+
+set_popularities = {
+	reformism = 5
+	conformism = 0
+	selfaligned = 5
+	decepticonism = 0
+	nonaligned = 90
+	ascenticonism = 0
+}
+
+generate_character = {
+	token_base = FLC_dai_atlas
+	name = "Dai Atlas"
+	portraits = {
+		civilian = {
+			large="gfx/leaders/FLC/portrait_dai_atlas.png"
+		}
+	}
+	country_leader = {
+		ideology = despotism
+		expire = 1983.10.6
+		traits = {  
+
+		}
+		desc = ""
+	}
+}
