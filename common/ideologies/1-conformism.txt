@@ -6,6 +6,7 @@ ideologies = {
 			clique = {}
 			autocracy = {}
             stratocracy = {}
+            conformist_technoism = {}
 		}
 		dynamic_faction_names = {
 			"faction_autobotism_thecontinentadjassociation"
