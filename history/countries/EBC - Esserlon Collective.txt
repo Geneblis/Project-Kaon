@@ -1,4 +1,4 @@
-﻿capital = 46
+﻿capital = 389 #added
 
 ##oob = "AUS_1936"
 
@@ -12,24 +12,24 @@ set_politics = {
 }
 
 set_popularities = {
-	reformism = 15
+	reformism = 10
 	conformism = 0
 	selfaligned = 0
 	decepticonism = 0
-	nonaligned = 85
+	nonaligned = 90
 	ascenticonism = 0
 }
 
 generate_character = {
-	token_base = ACP_hot_rod
-	name = "Hot Rod"
+	token_base = EBC_tracks
+	name = "Tracks"
 	portraits = {
 		civilian = {
-			large="gfx/leaders/ACP/Hot_Rod.png"
+			large="gfx/leaders/EBC/Portrait_tracks.png"
 		}
 	}
 	country_leader = {
-		ideology = aristocracy
+		ideology = band_society
 		expire = 1983.10.6
 		traits = {  
 
@@ -38,15 +38,15 @@ generate_character = {
 	}
 }
 generate_character = {
-	token_base = ACP_rodimus
-	name = "Rodimus Prime"
+	token_base = EBC_tracks_autobot
+	name = "Tracks"
 	portraits = {
 		civilian = {
-			large="gfx/leaders/ACP/Rodimus.png"
+			large="gfx/leaders/EBC/Portrait_tracks_autobot.png"
 		}
 	}
 	country_leader = {
-		ideology = orionism
+		ideology = consociationalism
 		expire = 1983.10.6
 		traits = {  
 

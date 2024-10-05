@@ -110,3 +110,15 @@ FLC = {
 	color = rgb { 32 50 120 }
 	color_ui = rgb { 32 50 120 }
 }
+TOK = {
+	color = rgb { 47 103 208 }
+	color_ui = rgb { 47 103 208 }
+}
+ANG = {
+	color = rgb { 47 103 208 }
+	color_ui = rgb { 47 103 208 }
+}
+EBC = {
+	color = rgb { 47 103 208 }
+	color_ui = rgb { 47 103 208 }
+}

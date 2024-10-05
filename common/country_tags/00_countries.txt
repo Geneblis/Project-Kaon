@@ -26,5 +26,8 @@ HYD = "countries/AUT.txt"
 TSE = "countries/AUT.txt"
 ACP = "countries/AUT.txt"
 CRT = "countries/AUT.txt"
+TOK = "countries/AUT.txt"
+ANG = "countries/AUT.txt"
+EBC = "countries/AUT.txt"
 
 

@@ -19,6 +19,10 @@ set_popularities = {
 	nonaligned = 90
 	ascenticonism = 0
 }
+create_faction = nail_fac
+add_to_faction = CRT
+add_to_faction = ACP
+add_to_faction = EBC
 
 generate_character = {
 	token_base = FLC_dai_atlas
