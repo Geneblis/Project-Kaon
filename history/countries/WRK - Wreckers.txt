@@ -5,15 +5,15 @@
 set_research_slots = 3
 
 set_politics = {
-	ruling_party = conformism
+	ruling_party = reformism
 	last_election = "04.11.9"
 	election_frequency = 48
 	elections_allowed = no
 }
 
 set_popularities = {
-	reformism = 30
-	conformism = 70
+	reformism = 70
+	conformism = 30
 	selfaligned = 0
 	decepticonism = 0
 	nonaligned = 0
@@ -21,7 +21,7 @@ set_popularities = {
 }
 
 generate_character = {
-	token_base = Kup
+	token_base = WRK_kup
 	name = "Kup"
 	portraits = {
 		civilian = {
@@ -30,6 +30,23 @@ generate_character = {
 	}
 	country_leader = {
 		ideology = clique
+		expire = 1983.10.6
+		traits = {  
+
+		}
+		desc = ""
+	}
+}
+generate_character = {
+	token_base = WRK_wheeljack
+	name = "Wheeljack"
+	portraits = {
+		civilian = {
+			large="gfx/leaders/WRK/Portrait_wheeljack.png"
+		}
+	}
+	country_leader = {
+		ideology = consociationalism
 		expire = 1983.10.6
 		traits = {  
 

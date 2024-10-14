@@ -4,19 +4,18 @@
 
 set_research_slots = 3
 
-set_cosmetic_tag = PXD_conformism
-#IRONHIDE, USE THE DAMN FLAG!
 
 set_politics = {
-	ruling_party = conformism
+	ruling_party = nonaligned
 	last_election = "04.11.9"
 	election_frequency = 48
 	elections_allowed = no
 }
 
 set_popularities = {
+	nonaligned = 40
 	reformism = 20
-	conformism = 70
+	conformism = 30
 	ascenticonism = 10
 }
 
@@ -36,7 +35,7 @@ generate_character = {
 		desc = ""
 	}
 	country_leader = {
-		ideology = stratocracy
+		ideology = despotism
 		expire = 1983.10.6
 		traits = {
 		}
