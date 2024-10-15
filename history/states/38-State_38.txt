@@ -5,7 +5,7 @@ state={
 		owner = WRK
 		add_core_of = WRK
 		victory_points = {
-			3253 12
+			7478 12
 		}
 	}
 	provinces={

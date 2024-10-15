@@ -2,8 +2,8 @@ state={
 	id=325
 	name="STATE_325"
 	history = {
-		owner = CGA
-		add_core_of = CGA
+		owner = KOD
+		add_core_of = KOD
 		victory_points = {
 			3156 4
 		}
@@ -12,6 +12,6 @@ state={
 		257 582 713 801 829 1173 1306 1429 1638 2126 2384 3065 3156 3228 3240 3512 3690 4579 4743 4869 4910 5009 5132 5272 5291 5360 5488 5689 6295 6500 6564 6622 6669 6687 6746 9251 9254 9258 9282 9297 9309 9313 9316 9320 9349 
 	}
 	buildings_max_level_factor=1.000
-        manpower=100000
-        state_category = large_town
+    manpower=100000
+    state_category = large_town
 }
