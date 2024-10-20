@@ -1,0 +1,37 @@
+﻿capital = 153 #Already has capital
+
+##oob = "AUS_1936"
+
+set_research_slots = 3
+
+set_politics = {
+	ruling_party = ascenticonism
+	last_election = "04.11.9"
+	election_frequency = 48
+	elections_allowed = no
+}
+
+set_popularities = {
+	reformism = 20
+	conformism = 0
+	selfaligned = 0
+	decepticonism = 20
+	nonaligned = 0
+	ascenticonism = 60
+}
+
+generate_character = {
+	token_base = TRI_tormentorix
+	name = "Tormentorix"
+	portraits = {
+		civilian = {
+			large="gfx/leaders/TRI/tormentorix.png"
+		}
+	}
+	country_leader = {
+		ideology = ascenticonism_sub_ideology
+		expire = 1983.10.6
+		traits = {}
+		desc = ""
+	}
+}

@@ -1,35 +1,35 @@
-﻿capital = 180 #Already has capital
+﻿capital = 111 #added
 
 ##oob = "AUS_1936"
 
 set_research_slots = 3
 
 set_politics = {
-	ruling_party = conformism
+	ruling_party = ascenticonism
 	last_election = "04.11.9"
 	election_frequency = 48
 	elections_allowed = no
 }
 
 set_popularities = {
-	reformism = 0
-	conformism = 70
-	selfaligned = 0
-	decepticonism = 0
-	nonaligned = 30
-	ascenticonism = 0
+	reformism = 5
+	conformism = 0
+	selfaligned = 10
+	decepticonism = 5
+	nonaligned = 0
+	ascenticonism = 80
 }
 
 generate_character = {
-	token_base = TOK_trailcutter
-	name = "Trailcutter"
+	token_base = ALA_jallguar
+	name = "Jallguar"
 	portraits = {
 		civilian = {
-			large="gfx/leaders/TOK/trailcutter.png"
+			large="gfx/leaders/ALA/ALA_jallguar.png"
 		}
 	}
 	country_leader = {
-		ideology = stratocracy
+		ideology = ascenticonism_sub_ideology
 		expire = 1983.10.6
 		traits = {  
 

@@ -122,3 +122,15 @@ EBC = {
 	color = rgb { 47 103 208 }
 	color_ui = rgb { 47 103 208 }
 }
+ALA = {
+	color = rgb {98 53 146}
+	color_ui = rgb {98 53 146}
+}
+THR = {
+	color = rgb {150 94 168}
+	color_ui = rgb {150 94 168}
+}
+TRI = {
+	color = rgb {200 144 218}
+	color_ui = rgb {200 144 218}
+}

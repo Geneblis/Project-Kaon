@@ -1,0 +1,43 @@
+﻿capital = 143 #added
+
+##oob = "AUS_1936"
+
+set_research_slots = 3
+
+set_politics = {
+	ruling_party = ascenticonism
+	last_election = "04.11.9"
+	election_frequency = 48
+	elections_allowed = no
+}
+
+set_popularities = {
+	reformism = 5
+	conformism = 0
+	selfaligned = 10
+	decepticonism = 25
+	nonaligned = 10
+	ascenticonism = 50
+}
+
+generate_character = {
+	token_base = THR_nightbird
+	name = "Nightbird"
+	portraits = {
+		civilian = {
+			large="gfx/leaders/THR/nightbird.png"
+		}
+	}
+	country_leader = {
+		ideology = ascenticonism_sub_ideology
+		expire = 1983.10.6
+		traits = {}
+		desc = ""
+	}
+	country_leader = {
+		ideology = gladiatorianism
+		expire = 1983.10.6
+		traits = {}
+		desc = ""
+	}
+}
