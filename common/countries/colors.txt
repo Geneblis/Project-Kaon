@@ -27,8 +27,12 @@ VCD = {
 	color_ui = rgb { 21 50 110 }
 }
 CID = {
-	color = rgb { 78 6 145 }
-	color_ui = rgb { 78 6 145 }
+	color = rgb {17 76 161 }
+	color_ui = rgb { 17 76 161 }
+}
+COR = {
+	color = rgb {30 47 99}
+	color_ui = rgb {30 47 99}
 }
 PYH = {
 	color = rgb { 32 74 135 }
@@ -87,8 +91,8 @@ HAW = {
 	color_ui = rgb { 117 80 123 }
 }
 WAS = {
-	color = rgb { 82 118 105 }
-	color_ui = rgb { 82 118 105 }
+	color = rgb { 21 50 110 }
+	color_ui = rgb { 21 50 110 }
 }
 HYD = {
 	color = rgb { 44 70 107 }
@@ -107,8 +111,8 @@ CRT = {
 	color_ui = rgb { 40 60 100 }
 }
 FLC = {
-	color = rgb { 32 50 120 }
-	color_ui = rgb { 32 50 120 }
+	color = rgb { 47 98 62 }
+	color_ui = rgb { 47 98 62 }
 }
 TOK = {
 	color = rgb { 47 103 208 }
@@ -119,8 +123,8 @@ ANG = {
 	color_ui = rgb { 47 103 208 }
 }
 EBC = {
-	color = rgb { 47 103 208 }
-	color_ui = rgb { 47 103 208 }
+	color = rgb { 47 98 62 }
+	color_ui = rgb { 47 98 62 }
 }
 ALA = {
 	color = rgb {98 53 146}

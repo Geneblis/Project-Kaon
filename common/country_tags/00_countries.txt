@@ -32,5 +32,5 @@ CRT = "countries/AUT.txt"
 TOK = "countries/AUT.txt"
 ANG = "countries/AUT.txt"
 EBC = "countries/AUT.txt"
-
+COR = "countries/AUT.txt"
 
