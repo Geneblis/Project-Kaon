@@ -1,0 +1,35 @@
+﻿capital = 204
+
+##oob = "AUS_1936"
+
+set_research_slots = 3
+
+set_politics = {
+	ruling_party = selfaligned
+	last_election = "04.11.9"
+	election_frequency = 48
+	elections_allowed = no
+}
+
+set_popularities = {
+	reformism = 10
+	selfaligned = 60
+	ascenticonism = 30
+}
+
+generate_character = {
+	token_base = TAN_placeholder
+	name = "Motormaster"
+	portraits = {
+		civilian = {
+			large="gfx/leaders/VCD/Portrait_Motormaster_conformism.png"
+		}
+	}
+	country_leader = {
+		ideology = oligarchy
+		expire = 1983.10.6
+		traits = {
+		}
+		desc = ""
+	}
+}

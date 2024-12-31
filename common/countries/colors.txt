@@ -1,6 +1,6 @@
 AUT = {
-	color = rgb { 57 113 228 }
-	color_ui = rgb { 74 147 255 }
+	color = rgb { 201 56 56 }
+	color_ui = rgb { 201 56 56 }
 }
 ASD = {
 	color = rgb { 32 74 135 }
@@ -27,10 +27,14 @@ VCD = {
 	color_ui = rgb { 21 50 110 }
 }
 CID = {
-	color = rgb {17 76 161 }
-	color_ui = rgb { 17 76 161 }
+	color = rgb {191 50 92 }
+	color_ui = rgb { 191 50 92}
 }
 COR = {
+	color = rgb {30 47 99}
+	color_ui = rgb {30 47 99}
+}
+TAN = {
 	color = rgb {30 47 99}
 	color_ui = rgb {30 47 99}
 }
@@ -43,16 +47,16 @@ VOS = {
 	color_ui = rgb { 2 96 179 }
 }
 PXD = {
-	color = rgb { 57 113 228 }
-	color_ui = rgb { 74 147 255 }
+	color = rgb { 133 45 29 }
+	color_ui = rgb { 133 45 29 }
 }
 TRC = {
 	color = rgb { 8 71 6 }
 	color_ui = rgb { 8 71 6 }
 }
 WRK = {
-	color = rgb { 57 113 228 }
-	color_ui = rgb { 74 147 255 }
+	color = rgb { 173 45 45 }
+	color_ui = rgb { 173 45 45 }
 }
 GRI = {
 	color = rgb { 21 50 110 }
@@ -71,8 +75,8 @@ GCT = {
 	color_ui = rgb { 53 24 61 }
 }
 AXD = {
-	color = rgb { 57 113 228 }
-	color_ui = rgb { 74 147 255 }
+	color = rgb { 173 45 45 }
+	color_ui = rgb { 173 45 45 }
 }
 TAR = {
 	color = rgb { 2 96 179 }
@@ -111,30 +115,30 @@ CRT = {
 	color_ui = rgb { 40 60 100 }
 }
 FLC = {
-	color = rgb { 47 98 62 }
-	color_ui = rgb { 47 98 62 }
+	color = rgb { 63 138 42 }
+	color_ui = rgb { 63 138 42 }
 }
 TOK = {
-	color = rgb { 47 103 208 }
-	color_ui = rgb { 47 103 208 }
+	color = rgb { 44 70 107 }
+	color_ui = rgb { 44 70 107 }
 }
 ANG = {
 	color = rgb { 47 103 208 }
 	color_ui = rgb { 47 103 208 }
 }
 EBC = {
-	color = rgb { 47 98 62 }
-	color_ui = rgb { 47 98 62 }
+	color = rgb { 45 102 30 }
+	color_ui = rgb { 45 102 30 }
 }
 ALA = {
-	color = rgb {98 53 146}
-	color_ui = rgb {98 53 146}
+	color = rgb {117 80 123}
+	color_ui = rgb {117 80 123}
 }
 THR = {
-	color = rgb {150 94 168}
-	color_ui = rgb {150 94 168}
+	color = rgb {117 80 123}
+	color_ui = rgb {117 80 123}
 }
 TRI = {
-	color = rgb {200 144 218}
-	color_ui = rgb {200 144 218}
+	color = rgb {98 53 146}
+	color_ui = rgb {98 53 146}
 }
