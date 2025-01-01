@@ -50,6 +50,10 @@ PXD = {
 	color = rgb { 133 45 29 }
 	color_ui = rgb { 133 45 29 }
 }
+XYL = {
+	color = rgb { 133 45 29 }
+	color_ui = rgb { 133 45 29 }
+}
 TRC = {
 	color = rgb { 8 71 6 }
 	color_ui = rgb { 8 71 6 }
