@@ -5,14 +5,14 @@
 set_research_slots = 3
 
 set_politics = {
-	ruling_party = nonaligned
+	ruling_party = selfaligned
 	last_election = "04.11.9"
 	election_frequency = 48
 	elections_allowed = no
 }
 
 set_popularities = {
-	nonaligned = 100
+	selfaligned = 100
 }
 
 create_country_leader = {
@@ -20,7 +20,7 @@ create_country_leader = {
 	desc = ""
 	picture = "gfx/leaders/CGA/Clench.png"
 	expire = "1965.1.1"
-	ideology = despotism
+	ideology = ochlocracy
 	traits = {
 		#
 	}

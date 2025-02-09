@@ -4,6 +4,7 @@ ideologies = {
 			pirate_subideology = {}
 			mercenary_organization = {}
 			oligarchy = {}
+            ochlocracy = {}
 		}
 		dynamic_faction_names = {
 		}
