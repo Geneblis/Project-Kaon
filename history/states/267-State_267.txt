@@ -2,8 +2,8 @@ state={
 	id=267
 	name="STATE_267"
 	history = {
-		owner = AUT
-		add_core_of = AUT
+		owner = STA
+		add_core_of = STA
 		victory_points = {
 			2901 17
 		}

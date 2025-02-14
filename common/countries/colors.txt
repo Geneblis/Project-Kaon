@@ -146,3 +146,7 @@ TRI = {
 	color = rgb {98 53 146}
 	color_ui = rgb {98 53 146}
 }
+STA = {
+	color = rgb {98 53 146}
+	color_ui = rgb {98 53 146}
+}

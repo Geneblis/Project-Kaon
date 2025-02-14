@@ -35,4 +35,5 @@ EBC = "countries/AUT.txt"
 COR = "countries/AUT.txt"
 TAN = "countries/DES.txt"
 XYL = "countries/AUT.txt"
+STA = "countries/AUT.txt"
 
