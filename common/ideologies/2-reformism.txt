@@ -2,7 +2,7 @@ ideologies = {
 	reformism = {
 		types = {
 			orionism = {}
-            consociationalism = {}
+            		consociationalism = {}
 			kaonism = {can_be_randomly_selected = no}
 		}
 		dynamic_faction_names = {

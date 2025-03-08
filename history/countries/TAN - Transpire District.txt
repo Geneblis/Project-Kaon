@@ -5,28 +5,27 @@
 set_research_slots = 3
 
 set_politics = {
-	ruling_party = selfaligned
+	ruling_party = nonaligned
 	last_election = "04.11.9"
 	election_frequency = 48
 	elections_allowed = no
 }
 
 set_popularities = {
-	reformism = 10
-	selfaligned = 60
-	ascenticonism = 30
+	selfaligned = 10
+	nonaligned = 90
 }
 
 generate_character = {
-	token_base = TAN_placeholder
-	name = "Motormaster"
+	token_base = TAN_tankor
+	name = "Tankor"
 	portraits = {
 		civilian = {
-			large="gfx/leaders/VCD/Portrait_Motormaster_conformism.png"
+			large="gfx/leaders/TAN/Tankor_n.png"
 		}
 	}
 	country_leader = {
-		ideology = oligarchy
+		ideology = despotism
 		expire = 1983.10.6
 		traits = {
 		}

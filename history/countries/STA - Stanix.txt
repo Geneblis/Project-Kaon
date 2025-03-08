@@ -5,28 +5,29 @@
 set_research_slots = 3
 
 set_politics = {
-	ruling_party = selfaligned
+	ruling_party = reformism
 	last_election = "04.11.9"
 	election_frequency = 48
 	elections_allowed = no
 }
 
 set_popularities = {
-	reformism = 10
-	selfaligned = 60
-	ascenticonism = 30
+	reformism = 40
+	selfaligned = 10
+	ascenticonism = 20
+	nonaligned = 30
 }
 
 generate_character = {
-	token_base = STA_placeholder
-	name = "Motormaster"
+	token_base = STA_jazz
+	name = "Jazz"
 	portraits = {
 		civilian = {
-			large="gfx/leaders/VCD/Portrait_Motormaster_conformism.png"
+			large="gfx/leaders/STA/Portrait_Jazz.png"
 		}
 	}
 	country_leader = {
-		ideology = oligarchy
+		ideology = consociationalism
 		expire = 1983.10.6
 		traits = {
 		}

@@ -2,16 +2,35 @@
 
 ##oob = "AUS_1936"
 
+set_cosmetic_tag = DBL_WRK
+
 set_research_slots = 3
 
 set_politics = {
-	ruling_party = ascenticonism
+	ruling_party = selfaligned
 	elections_allowed = no
 }
 
 set_popularities = {
 	selfaligned = 80
 	ascenticonism = 20
+}
+
+generate_character = {
+	token_base = DBL_Impactor
+	name = "Impactor"
+	portraits = {
+		civilian = {
+			large="gfx/leaders/DBL/Portrait_Impactor.png"
+		}
+	}
+	country_leader = {
+		ideology = mercenary_organization
+		expire = 1983.10.6
+		traits = {
+		}
+		desc = ""
+	}
 }
 
 generate_character = {

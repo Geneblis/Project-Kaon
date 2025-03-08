@@ -9,7 +9,7 @@ tags={
 	"Gameplay"
 	"Technologies"
 }
-supported_version="1.15.*"
+supported_version="1.16.*"
 name="Project Kaon"
 replace_path="common/ai_strategy"
 replace_path="common/ai_strategy_plans"
