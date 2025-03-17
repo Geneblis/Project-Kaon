@@ -5,28 +5,27 @@
 set_research_slots = 3
 
 set_politics = {
-	ruling_party = selfaligned
+	ruling_party = nonaligned
 	last_election = "04.11.9"
 	election_frequency = 48
 	elections_allowed = no
 }
 
 set_popularities = {
-	reformism = 10
-	selfaligned = 60
-	ascenticonism = 30
+	nonaligned = 90
+	ascenticonism = 10
 }
 
 generate_character = {
-	token_base = COR_placeholder
-	name = "Motormaster"
+	token_base = COR_Axor
+	name = "Axor"
 	portraits = {
 		civilian = {
-			large="gfx/leaders/VCD/Portrait_Motormaster_conformism.png"
+			large="gfx/leaders/COR/axor.png"
 		}
 	}
 	country_leader = {
-		ideology = oligarchy
+		ideology = band_society
 		expire = 1983.10.6
 		traits = {
 		}

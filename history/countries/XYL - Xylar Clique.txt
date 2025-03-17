@@ -5,28 +5,28 @@
 set_research_slots = 3
 
 set_politics = {
-	ruling_party = selfaligned
+	ruling_party = nonaligned
 	last_election = "04.11.9"
 	election_frequency = 48
 	elections_allowed = no
 }
 
 set_popularities = {
-	reformism = 10
-	selfaligned = 60
-	ascenticonism = 30
+	reformism = 15
+	selfaligned = 70
+	ascenticonism = 15
 }
 
 generate_character = {
-	token_base = COR_placeholder
-	name = "Motormaster"
+	token_base = XYL_Fastlane
+	name = "Fastlane"
 	portraits = {
 		civilian = {
-			large="gfx/leaders/VCD/Portrait_Motormaster_conformism.png"
+			large="gfx/leaders/XYL/Fastlane.png"
 		}
 	}
 	country_leader = {
-		ideology = oligarchy
+		ideology = despotism
 		expire = 1983.10.6
 		traits = {
 		}

@@ -5,7 +5,7 @@
 set_research_slots = 3
 
 set_politics = {
-	ruling_party = selfaligned
+	ruling_party = conformism
 	last_election = "04.11.9"
 	election_frequency = 48
 	elections_allowed = no
@@ -43,6 +43,22 @@ generate_character = {
 	}
 	country_leader = {
 		ideology = ascenticonism_sub_ideology
+		expire = 1983.10.6
+		traits = {
+		}
+		desc = ""
+	}
+}
+generate_character = {
+	token_base = VCD_blurr
+	name = "Blurr"
+	portraits = {
+		civilian = {
+			large="gfx/leaders/VCD/Portrait_Blurr.png"
+		}
+	}
+	country_leader = {
+		ideology = functionalism
 		expire = 1983.10.6
 		traits = {
 		}
